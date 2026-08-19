@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ItemNames
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 7fd42784789464341ad5badca7dd7687, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: f79255f3268eef24cbf131e30778481a, type: 2}
+  - {fileID: 11400000, guid: d92d69f8784e54449846f826cc0ae7de, type: 2}
+  - {fileID: 11400000, guid: fecc88ae176925d4794cfe9becfe9b60, type: 2}
+  m_Extensions:
+  - id: 0
+  m_Group: String Table
+  references:
+    version: 1
+    00000000:
+      type: {class: CsvExtension, ns: UnityEditor.Localization.Plugins.CSV, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_ColumnsList:
+        - id: 1
+        - id: 2
+        - id: 3
+        - id: 4
+        m_ConnectedFile: C:/Users/Artem/Desktop/ItemNames.csv
+    00000001:
+      type: {class: KeyIdColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_IncludeId: 0
+        m_IncludeSharedComments: 0
+        m_KeyFieldName: Key
+        m_IdFieldName: Id
+        m_CommentFieldName: Shared Comments
+    00000002:
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: en
+        m_FieldName: English(en)
+        m_CommentFieldName: English(en) Comments
+        m_IncludeComments: 0
+    00000003:
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: pl-PL
+        m_FieldName: Polish (Poland)(pl-PL)
+        m_CommentFieldName: Polish (Poland)(pl-PL) Comments
+        m_IncludeComments: 0
+    00000004:
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: ru-RU
+        m_FieldName: Russian (Russia)(ru-RU)
+        m_CommentFieldName: Russian (Russia)(ru-RU) Comments
+        m_IncludeComments: 0

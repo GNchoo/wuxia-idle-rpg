@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e844e0cf981617d40827c53ba6225b70
+  m_SerializeEntries:
+  - m_GUID: 25f242d265665994b9a033508c308a4a
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Talents/TalentDesciptions/TalentDesciptions
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33b5dfaa87c30d34784aa869bff90fb9
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/GamePlayTab/GamePlayTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36cee17733db3584289a89d92e4ea464
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/GameModeTab/GameModesTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ef85e68894d2634d9b251d71db6d5e0
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/TeamTab/TeamTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5516570f8e6cfeb41b5473f2c1ead45d
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Items/Description/ItemDescription
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66cd9ce4ca040fc4497d7c88ddf4c66a
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Account/AccountTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f6a6235a654a0741aedac7d7e3342fb
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Artifacts/ArtifactsDescriptions/ArtifactsDescription
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73791b287648da745a6fe98e1b9e466b
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Heroes/Names/HeroesNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fd42784789464341ad5badca7dd7687
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Items/Names/ItemNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8443ef31d58e55a45968dadd8cac896a
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/TalentTab/TalentTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86531add4d75750489be72b5175c82d4
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Skills/Names/SkillsNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b75a3b7aca794040b1eeb9449a7d0b8
+    m_Address: Assets/SampleText/Localization/LanguagesTranslate Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8caae0c6d97ea6345ba7bf6c920ab53a
+    m_Address: Assets/SampleText/Localization/FlagsLanguage Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d4e7a2b4e7061940a1d4f699f4ab300
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Stats/StatsNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ddce6ef1b69162458c0fbf574e8f9d4
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/VillageTab/VillageTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ebae8e3e8d64fa48a0c4f20a3d7931f
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Artifacts/ArtifactsNames/ArtifactsNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a329ade5f50a3714086d2e7cb8798a2b
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/VIPDesciption/VIPDesciption
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcf5f0807cc42d44f8250273f8125939
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Generic/Generic
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb9a997114423c242941856d5da00630
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Bosses/Names/BossNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cca142af7d21ea345a2f61c69f93441b
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Achievments/Names/AchievmentsNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0ddc4329e928ab44aebc3f0463f17b3
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Buildings/Names/BuildingsNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ded10dfeef799984dabeba665171dc1c
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/ItemsTab/ItemsTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3a04f7c4f94cf84694e1959f8385729
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Talents/TalentNames/TalentNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6d7ae3163a6a794f968ccdd03043643
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/Purchase/Boosters/BoostersNames
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe572f08b7b7a6a4dbc76be6ea4a97db
+    m_Address: Assets/IdleRPG_Assets/SampleText/Settings/Localization/Tables/ItemsTab/GemShop/ItemTab
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 468252e357736e74095c2721490c848c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 47c43baf55f3fce4495daacdd157e306, type: 2}
+    - {fileID: 11400000, guid: b97d120dd71b6664e9eb09c9bc83d252, type: 2}

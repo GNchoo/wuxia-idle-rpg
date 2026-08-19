@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StatsNames Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StatsNames
+  m_TableCollectionNameGuidString: 8d4e7a2b4e7061940a1d4f699f4ab300
+  m_Entries:
+  - m_Id: 1351085277184
+    m_Key: damage-increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351148191744
+    m_Key: critical-damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351152386048
+    m_Key: critical-chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351152386049
+    m_Key: attack-speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580352
+    m_Key: spell-cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580353
+    m_Key: spell-cooldown-decrease-chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580354
+    m_Key: boss-drop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580355
+    m_Key: village-income
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580356
+    m_Key: increased-gem-collecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580357
+    m_Key: upgrade-cost-reduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580358
+    m_Key: double-upgrade-chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580359
+    m_Key: double-talent-points-chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10138215297400832
+    m_Key: total-income
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10147179439407104
+    m_Key: skill-damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10147881117106176
+    m_Key: accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150267684470784
+    m_Key: gold-increase-production-flat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150314023141376
+    m_Key: gold-increase-production-persent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10151433772285952
+    m_Key: instant-boss-kill-chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10151707391901696
+    m_Key: lower-boss-health
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675759411822

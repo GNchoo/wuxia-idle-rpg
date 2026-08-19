@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TeamTab_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3ef85e68894d2634d9b251d71db6d5e0, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 291318874112
+    m_Localized: EVOLVE\n{0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 541538467840
+    m_Localized: UPGRADE\n{0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 144082026496
+    m_Localized: MAX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54810460160
+    m_Localized: TALENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35277586432
+    m_Localized: ARTIFACTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19695747072
+    m_Localized: TEAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1596812771328
+    m_Localized: 'ACTIVE TEAM:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1637271027712
+    m_Localized: 'COLLECTED-INACTIVE HEROES:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1695425052672
+    m_Localized: 'NOT COLLECTED HEROES:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2237442375680
+    m_Localized: MAIN CHARACTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7005019652096
+    m_Localized: Lv:{0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 9314764144640
+    m_Localized: UPGRADE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2916242968363008
+    m_Localized: EVOLVE {0}/{1}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 2916389769003008
+    m_Localized: MAX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7561348459610112
+    m_Localized: 'BONUSES:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25037565836214272
+    m_Localized: YOU HAVE NO ARTIFACTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27126780828925952
+    m_Localized: 'SKILLS:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53208869705695232
+    m_Localized: NEXT MILESTONE X{0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 53256493003522048
+    m_Localized: EQUIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53256530211192832
+    m_Localized: UNEQUIP
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0040f5d343000000004035167e0000000040b5fb5e060000004035ba4e5c0a000040b5612f09bd00

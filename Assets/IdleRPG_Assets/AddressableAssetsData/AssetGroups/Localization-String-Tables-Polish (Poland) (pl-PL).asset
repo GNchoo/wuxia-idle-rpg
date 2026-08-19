@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Polish (Poland) (pl-PL)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Polish (Poland) (pl-PL)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 213855cc861771a4fbea64453e95f473
+  m_SerializeEntries:
+  - m_GUID: 0ff1f5182d3f2ab4c8ad525a9f56303e
+    m_Address: HeroesNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 112cfb7f5f9b0414e837d617b27e3164
+    m_Address: TalentNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aea6d3ee393e184db471818edabeb65
+    m_Address: GamePlayTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2198f360b3d222a4d957929a072e10a2
+    m_Address: ArtifactsNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2462db7b0d989d24eaba49199f680fde
+    m_Address: TalentTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33b27c2ff14dd194eb96755c6733a38d
+    m_Address: BoostersNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46decece6392fdc4da94656daa4c1fcd
+    m_Address: BossNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c000d77de7bf304abf400d32dafbea0
+    m_Address: Generic_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52fe53e0dfc5f3a4a9dc40822fb84caf
+    m_Address: TeamTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76939e7fe758fae4bac8cdbddfa55c69
+    m_Address: StatsNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dc74b619be78a54b9d96b47d1151032
+    m_Address: ItemsTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87b3a4d41c9b92041a238ce24d85e911
+    m_Address: AchievmentsNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d0d10af3b660004f8d7dc3e684e1eb4
+    m_Address: AccountTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 920ab025332b64348b426e478ba157bc
+    m_Address: VillageTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92a57257a5d91974894485993c6c73bc
+    m_Address: VIPDesciption_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb8c9952a8aff8a4ca529fd832472391
+    m_Address: ItemDescription_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be1d36c92820d374d89c42160a09d15d
+    m_Address: BuildingsNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d15d5c1063b7b2a44a682e291f7f191a
+    m_Address: SkillsNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d92d69f8784e54449846f826cc0ae7de
+    m_Address: ItemNames_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbb0744eb7b11dc48adbfb8c6bff93c4
+    m_Address: GameModesTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9520d0a7eb03074d81d0105e1421cab
+    m_Address: ArtifactsDescription_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef285cc8191b8424a83ad12be7ff9da0
+    m_Address: ItemTab_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f28b74ae1c13ea34e993218f73ef38ac
+    m_Address: TalentDesciptions_pl-PL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl-PL
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 468252e357736e74095c2721490c848c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a0076131f45d0b04f9537512c99eed40, type: 2}
+    - {fileID: 11400000, guid: eaa6dc0fae10aee4e859d17c793bec8e, type: 2}

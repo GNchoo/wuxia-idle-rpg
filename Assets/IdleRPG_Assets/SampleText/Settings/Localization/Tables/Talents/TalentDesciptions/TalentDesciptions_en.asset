@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TalentDesciptions_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 25f242d265665994b9a033508c308a4a, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 73449947136
+    m_Localized: Increases Attack Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73504473088
+    m_Localized: Increases Attack Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73504473089
+    m_Localized: Increases Critical Attack Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73504473090
+    m_Localized: Increases Attack Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667392
+    m_Localized: Increases Attack Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667393
+    m_Localized: Increases Critical Attack Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667394
+    m_Localized: Increases earnings from bosses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667395
+    m_Localized: Increases all buildings income (village)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667396
+    m_Localized: Reduces hero and village building upgrades cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667397
+    m_Localized: Deals Damage equivalent to {0}% of Boss Health
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 73512861696
+    m_Localized: Deals Damage equivalent to {0}% of Boss health over 5 seconds duration
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 73512861697
+    m_Localized: Boss Gold income is increased by {0}% for 10 seconds
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 73512861698
+    m_Localized: Activating {0}% more damage by all heroes for 5 seconds
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 250943395676160
+    m_Localized: default-name
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0240b51d110000000540751d110000000140b51d110000000040b51d11000000

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: VillageTab_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 8ddce6ef1b69162458c0fbf574e8f9d4, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 193629339648
+    m_Localized: '{0}s'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299631984640
+    m_Localized: "KUPI\u0106\\n{0}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 376618434560
+    m_Localized: GOTOWY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290637240156160
+    m_Localized: "KOLEJNY KAMIE\u0143 MILOWY X{0}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7261952585056256
+    m_Localized: 'KOSZT: {0}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7262097200463872
+    m_Localized: "DOCH\xD3D: {0}"
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 7262272568508416
+    m_Localized: 'CZAS: {0}s'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 8261325917863936
+    m_Localized: "ZBIERA\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8265446288867328
+    m_Localized: AKTUALIZACJA\n{0}
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 53211830682992640
+    m_Localized: 'CZAS:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53211911272349696
+    m_Localized: "DOCH\xD3D:"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 004075415508010000403518b5cc19000040f5c3d6cc19000040b598ffcc1900004075c3450000000040f52d615d1d00

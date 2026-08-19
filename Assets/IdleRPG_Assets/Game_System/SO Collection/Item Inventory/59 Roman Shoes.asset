@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b692892b869ce4cb14c475641a7590, type: 3}
+  m_Name: 59 Roman Shoes
+  m_EditorClassIdentifier: 
+  LanguageReferenceOnly:
+  - ENGLISH
+  - POLISH
+  - RUSSIAN
+  ItemName:
+  - Roman Shoes
+  - Buty Rzymskie
+  - "\u0420\u0438\u043C\u0441\u043A\u0430\u044F \u041E\u0431\u0443\u0432\u044C"
+  ItemDescription:
+  - You Will Walk Hundreds Of Miles
+  - "Przejdziesz Setki Kilometr\xF3w"
+  - "\u0422\u044B \u041F\u0440\u043E\u0439\u0434\u0451\u0448\u044C \u0421\u043E\u0442\u043D\u0438
+    \u041C\u0438\u043B\u044C"
+  ItemNameID: 59
+  itemType: 5
+  Image: {fileID: 21300000, guid: 4a0402f13335f844ba6c01ab1ad3582d, type: 3}
+  ItemIDSO: 59
+  ItemCurrentCount: 0
+  ItemMaxLevelID: 0
+  ItemNextMaxLevel: 0a0000000f0000001900000028000000370000005000000078000000c800000054010000f4010000
+  ItemStatsValue: 0

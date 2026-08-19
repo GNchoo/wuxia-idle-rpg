@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b692892b869ce4cb14c475641a7590, type: 3}
+  m_Name: 15 Ice Amulet
+  m_EditorClassIdentifier: 
+  LanguageReferenceOnly:
+  - ENGLISH
+  - POLISH
+  - RUSSIAN
+  ItemName:
+  - Lodowy Amulet Ice Amulet
+  - Lodowy Amulet Lodowy Amulet
+  - "\u041B\u0435\u0434\u044F\u043D\u043E\u0439 \u0410\u043C\u0443\u043B\u0435\u0442
+    \u041B\u0435\u0434\u044F\u043D\u043E\u0439 \u0410\u043C\u0443\u043B\u0435\u0442"
+  ItemDescription:
+  - Cold As Its Owner's Heart
+  - "Zimny Jak Serce Jego W\u0142a\u015Bciciela"
+  - "\u0425\u043E\u043B\u043E\u0434\u043D\u043E, \u041A\u0430\u043A \u0421\u0435\u0440\u0434\u0446\u0435
+    \u0415\u0433\u043E \u0412\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0430"
+  ItemNameID: 15
+  itemType: 3
+  Image: {fileID: 21300000, guid: c419dfb20b0982241b1756f02620ea64, type: 3}
+  ItemIDSO: 15
+  ItemCurrentCount: 0
+  ItemMaxLevelID: 0
+  ItemNextMaxLevel: 0a0000000f0000001900000028000000370000005000000078000000c800000054010000f4010000
+  ItemStatsValue: 0

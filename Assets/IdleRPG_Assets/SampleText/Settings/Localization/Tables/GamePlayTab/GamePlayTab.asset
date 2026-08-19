@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: GamePlayTab
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 33b5dfaa87c30d34784aa869bff90fb9, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 290f1049030c11944ab5a0d092260c72, type: 2}
+  - {fileID: 11400000, guid: 1aea6d3ee393e184db471818edabeb65, type: 2}
+  - {fileID: 11400000, guid: 15b38bd21a3c0f540a829b7eb6f87521, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

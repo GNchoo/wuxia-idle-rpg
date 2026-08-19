@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: BuildingsNames Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: BuildingsNames
+  m_TableCollectionNameGuidString: d0ddc4329e928ab44aebc3f0463f17b3
+  m_Entries:
+  - m_Id: 1947150401536
+    m_Key: castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947150401537
+    m_Key: market
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947150401538
+    m_Key: town-hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947150401539
+    m_Key: mages-guild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595840
+    m_Key: butcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595841
+    m_Key: library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595842
+    m_Key: alchemist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595843
+    m_Key: fishermans-hut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595844
+    m_Key: harbor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595845
+    m_Key: cow-farm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595846
+    m_Key: volcano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595847
+    m_Key: our-statue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595848
+    m_Key: a-hole-in-the-ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595849
+    m_Key: court
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595850
+    m_Key: center-square
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595851
+    m_Key: training-ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595852
+    m_Key: plain-cottage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595853
+    m_Key: church
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595854
+    m_Key: altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595855
+    m_Key: chariot-parking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595856
+    m_Key: ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595857
+    m_Key: armory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595858
+    m_Key: clinic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595859
+    m_Key: ironworks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595860
+    m_Key: artifact-shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595861
+    m_Key: cemetery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595862
+    m_Key: power-station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595863
+    m_Key: thieves-guild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595864
+    m_Key: greenhouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595865
+    m_Key: robot-factory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595866
+    m_Key: monster-zoo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675323647216

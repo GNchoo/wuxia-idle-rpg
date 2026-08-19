@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TalentDesciptions Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TalentDesciptions
+  m_TableCollectionNameGuidString: 25f242d265665994b9a033508c308a4a
+  m_Entries:
+  - m_Id: 73449947136
+    m_Key: main-character-attack-damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73504473088
+    m_Key: main-character-attack-speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73504473089
+    m_Key: main-character-critical-damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73504473090
+    m_Key: support-attack-damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667392
+    m_Key: support-attack-speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667393
+    m_Key: support-critical-damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667394
+    m_Key: economy-combat-income-increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667395
+    m_Key: economy-village-income-increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667396
+    m_Key: economy-upgrade-cost-reduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73508667397
+    m_Key: skills-lightning-strike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73512861696
+    m_Key: skills-meteor-shower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73512861697
+    m_Key: skills-ice-spike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73512861698
+    m_Key: skills-scary-scream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250943395676160
+    m_Key: default-name
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675864484813

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StatsNames_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8d4e7a2b4e7061940a1d4f699f4ab300, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1351085277184
+    m_Localized: Damage Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351148191744
+    m_Localized: Critical Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351152386048
+    m_Localized: Critical Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351152386049
+    m_Localized: Attack Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580352
+    m_Localized: Spell Cooldown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580353
+    m_Localized: Spell Cooldown Decrease Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580354
+    m_Localized: Boss Drop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580355
+    m_Localized: Village Income
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580356
+    m_Localized: Increased Gem Collecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580357
+    m_Localized: Upgrade Cost Reduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580358
+    m_Localized: Double Upgrade Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580359
+    m_Localized: Double Talent Points Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10138215297400832
+    m_Localized: Income
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10147179439407104
+    m_Localized: Skill Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10147881117106176
+    m_Localized: Accuracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150267684470784
+    m_Localized: Gold Production Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150314023141376
+    m_Localized: Gold Production Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10151433772285952
+    m_Localized: Instant Boss Kill Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10151707391901696
+    m_Localized: Lower Boss Health
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

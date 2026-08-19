@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LanguagesTranslate_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8b75a3b7aca794040b1eeb9449a7d0b8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 54889771008
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1123392909312
+    m_Localized: MUSIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9777961725952
+    m_Localized: 'In this panel you can buy buildings that are going to generate
+      you a passive income. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10260973580288
+    m_Localized: "Welcome to your Profile! You can change your Avatar. Read your
+      details and change Settings in this place. \nLet's understand the Prestige
+      Function first!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10684761862144
+    m_Localized: 'Talents are made to boost your Heroes & Economy. You already have
+      4 talent points to distribute between skills, Main Hero, Team & World. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10945312026624
+    m_Localized: When you collect or buy a new Artifact it is automatically activated
+      and shows up in this window. All artifacts are active all the time. You can
+      click on the artifact icon to show its details.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11091600961536
+    m_Localized: 'As you could see before... You can upgrade heroes in this panel.
+      It increases theirs DPS (damage per second) value. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11256193839104
+    m_Localized: 'At the top you have 4 squares. Here are your active Heroes. Below
+      you can see Collected and non-collected heroes. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11541087744000
+    m_Localized: 'Let''s start with some basic introduction.
+
+
+      This is your
+      Village Panel with your very own castle.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11667067858944
+    m_Localized: Click on the Team button to open your Heroes Collection window.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11740547870720
+    m_Localized: 'In this panel you can upgrade your Team & read details about each
+      hero. When you click the Main Hero icon - inventory panel will show up. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12829829591040
+    m_Localized: Enemies drop items that you can equip, upgrade and unequip. Come
+      back to this place once you get a new item!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13478591950848
+    m_Localized: 'In this panel you can upgrade your Team & read details about each
+      hero. When you click the Main Hero icon - inventory panel will show up. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13603687067648
+    m_Localized: 'You''ve made it! Wonderful Village!
+
+      Open Battlefield (Swords
+      Icon at the bottom bar). This is your battlefield - place where your chosen
+      heroes fight for you with evil monsters. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13753268531200
+    m_Localized: 'Congratulations! You''ve just purchased your first building.
+
+      The
+      timer tells you when you can collect your income.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13897334484992
+    m_Localized: Items Tab contains Chests from which you can find and collect new
+      heroes to your Team! You can also find Artifacts that strengthen your Team
+      and Village.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14172065591296
+    m_Localized: "You can spot all purchased buildings here in your village. \nVisit
+      this place to collect your income at any time! But first..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19617660497920
+    m_Localized: Some Talent Trees require you to unlock them in order to buy stronger
+      Talents. You can use skills in the Tab3 Battlefield Tab by clicking "Lightning
+      bolt" icon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19697838813184
+    m_Localized: '9999
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20019898445824
+    m_Localized: In the Shop tab we have three different sections to upgrade our
+      account. We are now in Boosts Tab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69831322726400
+    m_Localized: Close this window for now. We are going to activate new heroes to
+      increase your total DPS in battlefield.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70465254027264
+    m_Localized: Click on the collected hero and press "Equip" to use him in the
+      battlefield. Then come back to the Team Tab by pressing X in the right upper
+      corner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70591523549184
+    m_Localized: When you have enough artifact duplicates (when you get more of the
+      same artifact) you can evolve it in this panel to increase its special power
+      value.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70746075262976
+    m_Localized: Buy one skill (on the left side). If you make a wrong purchase -
+      you can always reset talent points for free by clicking the main-middle circle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71111042625536
+    m_Localized: Click on the collected hero and press "Equip" to use him in the
+      battlefield. Then come back to the Team Tab by pressing X in the right upper
+      corner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71235839946752
+    m_Localized: Great! Now open the "Talents" tab at the top of this window.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71355864150016
+    m_Localized: 'CONGRATULATIONS!
+
+      Play around and discover other magnificent
+      options in the game like Calendar, Messages, Achievments and others! As a Thank
+      You... '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71460059049984
+    m_Localized: 'At the top of the screen you can spot: Sword (Your Damage), Gold
+      and Gems values. On the left you have your Main Hero. On the right - Enemy. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71657635934208
+    m_Localized: 'Click on the Castle to open your village management window. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71857502908416
+    m_Localized: 'INCOME:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71973555105792
+    m_Localized: COLLECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72074168070144
+    m_Localized: MARKET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72141323071488
+    m_Localized: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79899653009408
+    m_Localized: Artifact Level
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

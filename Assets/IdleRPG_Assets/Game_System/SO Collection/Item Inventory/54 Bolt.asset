@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b692892b869ce4cb14c475641a7590, type: 3}
+  m_Name: 54 Bolt
+  m_EditorClassIdentifier: 
+  LanguageReferenceOnly:
+  - ENGLISH
+  - POLISH
+  - RUSSIAN
+  ItemName:
+  - Bolt
+  - "\u015Aruba"
+  - "\u0411\u043E\u043B\u0442"
+  ItemDescription:
+  - Shooooocking!
+  - Wspaniale!
+  - "\u041A\u0440\u0443\u0442\u043E!"
+  ItemNameID: 54
+  itemType: 0
+  Image: {fileID: 21300000, guid: 232f106b555157b4cb737f07146e5f7e, type: 3}
+  ItemIDSO: 54
+  ItemCurrentCount: 0
+  ItemMaxLevelID: 0
+  ItemNextMaxLevel: 0a0000000f0000001900000028000000370000005000000078000000c800000054010000f4010000
+  ItemStatsValue: 0

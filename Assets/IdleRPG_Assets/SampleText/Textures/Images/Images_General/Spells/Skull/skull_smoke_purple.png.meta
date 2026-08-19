@@ -1,0 +1,1071 @@
+fileFormatVersion: 2
+guid: e3d61917851faff41aaa19b555c41152
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3389589426885181594
+    second: skull_smoke_purple_0
+  - first:
+      213: -8552906543158345327
+    second: skull_smoke_purple_1
+  - first:
+      213: -8724731002839021646
+    second: skull_smoke_purple_2
+  - first:
+      213: -4627620167477283600
+    second: skull_smoke_purple_3
+  - first:
+      213: 432015530952359336
+    second: skull_smoke_purple_4
+  - first:
+      213: 2168044496845357482
+    second: skull_smoke_purple_5
+  - first:
+      213: 5213199609624689162
+    second: skull_smoke_purple_6
+  - first:
+      213: 989643877297544841
+    second: skull_smoke_purple_7
+  - first:
+      213: 6095028888616907381
+    second: skull_smoke_purple_8
+  - first:
+      213: 2490357540171307891
+    second: skull_smoke_purple_9
+  - first:
+      213: 7724331722834502441
+    second: skull_smoke_purple_10
+  - first:
+      213: -5207672609702117808
+    second: skull_smoke_purple_11
+  - first:
+      213: -2859577243789897202
+    second: skull_smoke_purple_12
+  - first:
+      213: 2724273862470585816
+    second: skull_smoke_purple_13
+  - first:
+      213: -2400905201695302017
+    second: skull_smoke_purple_14
+  - first:
+      213: 294560246431759612
+    second: skull_smoke_purple_15
+  - first:
+      213: 1297302198020793066
+    second: skull_smoke_purple_16
+  - first:
+      213: -6183287780606963631
+    second: skull_smoke_purple_17
+  - first:
+      213: 5771949787271112553
+    second: skull_smoke_purple_18
+  - first:
+      213: -785622894620581044
+    second: skull_smoke_purple_19
+  - first:
+      213: 1685736328518932769
+    second: skull_smoke_purple_20
+  - first:
+      213: 4813916670315163407
+    second: skull_smoke_purple_21
+  - first:
+      213: 2652392234813351720
+    second: skull_smoke_purple_22
+  - first:
+      213: -7486978218005887203
+    second: skull_smoke_purple_23
+  - first:
+      213: -767758353080999923
+    second: skull_smoke_purple_24
+  - first:
+      213: 6539184978971153246
+    second: skull_smoke_purple_25
+  - first:
+      213: -2975240479641372047
+    second: skull_smoke_purple_26
+  - first:
+      213: 4512440462940500403
+    second: skull_smoke_purple_27
+  - first:
+      213: 3165215624627476990
+    second: skull_smoke_purple_28
+  - first:
+      213: -4989588506405207239
+    second: skull_smoke_purple_29
+  - first:
+      213: -760452665203719811
+    second: skull_smoke_purple_30
+  - first:
+      213: -3494494365921074729
+    second: skull_smoke_purple_31
+  - first:
+      213: -8384756840042797043
+    second: skull_smoke_purple_32
+  - first:
+      213: -8289147412206965665
+    second: skull_smoke_purple_33
+  - first:
+      213: -4547039107385480179
+    second: skull_smoke_purple_34
+  - first:
+      213: 884860654766816451
+    second: skull_smoke_purple_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skull_smoke_purple_0
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9049ebff9d3a0f20800000000000000
+      internalID: 3389589426885181594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 316
+        width: 108
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191cee170d8fd4980800000000000000
+      internalID: -8552906543158345327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 314
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b741f6e0678be680800000000000000
+      internalID: -8724731002839021646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 312
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43512d9f367cfb0800000000000000
+      internalID: -4627620167477283600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_4
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 312
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adfdd326d3def500800000000000000
+      internalID: 432015530952359336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_5
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 312
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa145bbabf0761e10800000000000000
+      internalID: 2168044496845357482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_6
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 307
+        width: 114
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a72ea9c61095840800000000000000
+      internalID: 5213199609624689162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 304
+        width: 115
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ed570fcdbebbd00800000000000000
+      internalID: 989643877297544841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_8
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 303
+        width: 118
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57231c93b74e59450800000000000000
+      internalID: 6095028888616907381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_9
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 296
+        width: 123
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b50a10df68f8220800000000000000
+      internalID: 2490357540171307891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_10
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 294
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923e4d2d6c6523b60800000000000000
+      internalID: 7724331722834502441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_11
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 292
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7c285a51aab7b0800000000000000
+      internalID: -5207672609702117808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_12
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 291
+        width: 134
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02dc10c5adb058d0800000000000000
+      internalID: -2859577243789897202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_13
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 290
+        width: 137
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc073e4a09ec520800000000000000
+      internalID: 2724273862470585816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_14
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 291
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e509980754eaed0800000000000000
+      internalID: -2400905201695302017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_15
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 290
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc3485cbfc761400800000000000000
+      internalID: 294560246431759612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_16
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 285
+        width: 129
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ec57c971f00210800000000000000
+      internalID: 1297302198020793066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_17
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 280
+        width: 131
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15098e4268c803aa0800000000000000
+      internalID: -6183287780606963631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 135
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967afab10c51a1050800000000000000
+      internalID: 5771949787271112553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 18
+        width: 141
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e9b6c328e815f0800000000000000
+      internalID: -785622894620581044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 16
+        width: 139
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12997566240f46710800000000000000
+      internalID: 1685736328518932769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 14
+        width: 141
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6778d4b77ec240800000000000000
+      internalID: 4813916670315163407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 27
+        width: 142
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827ed014fa03fc420800000000000000
+      internalID: 2652392234813351720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_23
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 39
+        width: 137
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170caa7af8e81890800000000000000
+      internalID: -7486978218005887203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_24
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 35
+        width: 130
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00a44b78df5855f0800000000000000
+      internalID: -767758353080999923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_25
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 32
+        width: 121
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e535520a71adfba50800000000000000
+      internalID: 6539184978971153246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_26
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 30
+        width: 122
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17afc991c82d5b6d0800000000000000
+      internalID: -2975240479641372047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_27
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 29
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1faaf61b86f9e30800000000000000
+      internalID: 4512440462940500403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_28
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 27
+        width: 130
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9df6f27da1deb20800000000000000
+      internalID: 3165215624627476990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_29
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 29
+        width: 129
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933885c70bb61cab0800000000000000
+      internalID: -4989588506405207239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_30
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 38
+        width: 130
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71880e74545275f0800000000000000
+      internalID: -760452665203719811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_31
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 36
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1aba983ef018fc0800000000000000
+      internalID: -3494494365921074729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_32
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 34
+        width: 134
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08e83d041c53ab80800000000000000
+      internalID: -8384756840042797043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_33
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 32
+        width: 127
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c2e8ca85807fc80800000000000000
+      internalID: -8289147412206965665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_34
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 43
+        width: 123
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0caa78e50ca5e0c0800000000000000
+      internalID: -4547039107385480179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull_smoke_purple_35
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 52
+        width: 104
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc781bc318a74c00800000000000000
+      internalID: 884860654766816451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      skull_smoke_purple_0: 3389589426885181594
+      skull_smoke_purple_1: -8552906543158345327
+      skull_smoke_purple_10: 7724331722834502441
+      skull_smoke_purple_11: -5207672609702117808
+      skull_smoke_purple_12: -2859577243789897202
+      skull_smoke_purple_13: 2724273862470585816
+      skull_smoke_purple_14: -2400905201695302017
+      skull_smoke_purple_15: 294560246431759612
+      skull_smoke_purple_16: 1297302198020793066
+      skull_smoke_purple_17: -6183287780606963631
+      skull_smoke_purple_18: 5771949787271112553
+      skull_smoke_purple_19: -785622894620581044
+      skull_smoke_purple_2: -8724731002839021646
+      skull_smoke_purple_20: 1685736328518932769
+      skull_smoke_purple_21: 4813916670315163407
+      skull_smoke_purple_22: 2652392234813351720
+      skull_smoke_purple_23: -7486978218005887203
+      skull_smoke_purple_24: -767758353080999923
+      skull_smoke_purple_25: 6539184978971153246
+      skull_smoke_purple_26: -2975240479641372047
+      skull_smoke_purple_27: 4512440462940500403
+      skull_smoke_purple_28: 3165215624627476990
+      skull_smoke_purple_29: -4989588506405207239
+      skull_smoke_purple_3: -4627620167477283600
+      skull_smoke_purple_30: -760452665203719811
+      skull_smoke_purple_31: -3494494365921074729
+      skull_smoke_purple_32: -8384756840042797043
+      skull_smoke_purple_33: -8289147412206965665
+      skull_smoke_purple_34: -4547039107385480179
+      skull_smoke_purple_35: 884860654766816451
+      skull_smoke_purple_4: 432015530952359336
+      skull_smoke_purple_5: 2168044496845357482
+      skull_smoke_purple_6: 5213199609624689162
+      skull_smoke_purple_7: 989643877297544841
+      skull_smoke_purple_8: 6095028888616907381
+      skull_smoke_purple_9: 2490357540171307891
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

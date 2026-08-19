@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ArtifactsDescription_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6f6a6235a654a0741aedac7d7e3342fb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 513092698112
+    m_Localized: Overall Income Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 553240576000
+    m_Localized: Overall DPS Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 581761843200
+    m_Localized: Critical Hit Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 631099441152
+    m_Localized: Spell Cooldown Decrease Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607791693824
+    m_Localized: Critical Hit Damage Increase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 657959763968
+    m_Localized: Double Talent Points Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 685331791872
+    m_Localized: Overall Upgrades Cost Reduction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710594084864
+    m_Localized: Double Upgrade Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744920268800
+    m_Localized: Gems Collection Increase
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

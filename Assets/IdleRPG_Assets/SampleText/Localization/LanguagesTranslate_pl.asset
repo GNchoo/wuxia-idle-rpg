@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LanguagesTranslate_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 8b75a3b7aca794040b1eeb9449a7d0b8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 54889771008
+    m_Localized: "Nast\u0119pne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1123392909312
+    m_Localized: MUZYKA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9777961725952
+    m_Localized: "W tym panelu mo\u017Cesz kupowa\u0107 budynki, kt\xF3re b\u0119d\u0105
+      generowa\u0107 doch\xF3d pasywny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10260973580288
+    m_Localized: "Witaj na swoim profilu! Tutaj mo\u017Cesz zmieni\u0107 sw\xF3j
+      avatar, sprawdzi\u0107 swoje dane i dostosowa\u0107 ustawienia.\nPrzyjrzyjmy
+      si\u0119 teraz funkcji presti\u017Cu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10684761862144
+    m_Localized: "Talenty zosta\u0142y stworzone, aby wzmacnia\u0107 Twoich bohater\xF3w
+      i gospodark\u0119. Masz ju\u017C 4 punkty talent\xF3w do rozdysponowania pomi\u0119dzy
+      umiej\u0119tno\u015Bci, g\u0142\xF3wnego bohatera, dru\u017Cyn\u0119 i \u015Bwiat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10945312026624
+    m_Localized: "Kiedy zbierzesz lub kupisz nowy artefakt, zostaje on automatycznie
+      aktywowany i pojawia si\u0119 w tym oknie. Wszystkie artefakty s\u0105 aktywne
+      przez ca\u0142y czas. Mo\u017Cesz klikn\u0105\u0107 ikon\u0119 artefaktu, aby
+      wy\u015Bwietli\u0107 jego szczeg\xF3\u0142y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11091600961536
+    m_Localized: "Jak mog\u0142e\u015B wcze\u015Bniej zauwa\u017Cy\u0107... W tym
+      panelu mo\u017Cesz ulepsza\u0107 bohater\xF3w. Zwi\u0119ksza to ich warto\u015B\u0107
+      DPS (obra\u017Cenia na sekund\u0119)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11256193839104
+    m_Localized: "Na g\xF3rze masz 4 kwadraty. Tutaj znajduj\u0105 si\u0119 Twoi
+      aktywni bohaterowie. Poni\u017Cej mo\u017Cesz zobaczy\u0107 zebranych oraz
+      niezebranych bohater\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11541087744000
+    m_Localized: "Zacznijmy od podstawowego wprowadzenia.\n\nTo jest Tw\xF3j Panel
+      Wioski z Twoim w\u0142asnym zamkiem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11667067858944
+    m_Localized: "Kliknij przycisk \"Zesp\xF3\u0142\", aby otworzy\u0107 swoj\u0105
+      Kolekcj\u0119 Bohater\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11740547870720
+    m_Localized: "W tym panelu mo\u017Cesz ulepsza\u0107 sw\xF3j zesp\xF3\u0142 i
+      zapozna\u0107 si\u0119 ze szczeg\xF3\u0142ami ka\u017Cdego bohatera. Klikaj\u0105c
+      ikon\u0119 G\u0142\xF3wnego Bohatera, otworzy si\u0119 panel ekwipunku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12829829591040
+    m_Localized: "Wrogowie zostawiaj\u0105 przedmioty, kt\xF3re mo\u017Cesz za\u0142o\u017Cy\u0107,
+      ulepszy\u0107 lub zdj\u0105\u0107. Wr\xF3\u0107 tu, gdy zdob\u0119dziesz nowy
+      przedmiot!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13478591950848
+    m_Localized: "W tym panelu mo\u017Cesz ulepsza\u0107 sw\xF3j zesp\xF3\u0142 i
+      zapozna\u0107 si\u0119 ze szczeg\xF3\u0142ami ka\u017Cdego bohatera. Klikaj\u0105c
+      ikon\u0119 G\u0142\xF3wnego Bohatera, otworzy si\u0119 panel ekwipunku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13603687067648
+    m_Localized: "Uda\u0142o ci si\u0119! Wspania\u0142a Wioska!\nOtw\xF3rz Pole
+      Bitwy (ikona miecza na dolnym pasku). To twoje pole bitwy \u2013 miejsce, gdzie
+      wybrani bohaterowie walcz\u0105 z potworami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13753268531200
+    m_Localized: "Gratulacje! W\u0142a\u015Bnie kupi\u0142e\u015B sw\xF3j pierwszy
+      budynek.\nTimer pokazuje, kiedy mo\u017Cesz zebra\u0107 swoje dochody."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13897334484992
+    m_Localized: "Zak\u0142adka Przedmioty zawiera Skrzynie, z kt\xF3rych mo\u017Cesz
+      zdoby\u0107 nowych bohater\xF3w do swojego zespo\u0142u! Znajdziesz tam tak\u017Ce
+      Artefakty, kt\xF3re wzmocni\u0105 tw\xF3j zesp\xF3\u0142 i wiosk\u0119.\n\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14172065591296
+    m_Localized: "Wszystkie zakupione budynki znajdziesz tutaj, w swojej wiosce.
+      Odwiedzaj to miejsce, aby w ka\u017Cdej chwili zebra\u0107 swoje dochody! Ale
+      najpierw..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20019898445824
+    m_Localized: "W zak\u0142adce Sklep mamy trzy r\xF3\u017Cne sekcje, kt\xF3re
+      pozwalaj\u0105 ulepszy\u0107 nasze konto. Teraz jeste\u015Bmy w zak\u0142adce
+      \"Ulepszenia\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69831322726400
+    m_Localized: "Zamknij to okno na razie. Teraz aktywujemy nowych bohater\xF3w,
+      aby zwi\u0119kszy\u0107 ca\u0142kowite DPS na polu bitwy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70465254027264
+    m_Localized: "Kliknij na zebranego bohatera i naci\u015Bnij \"Za\u0142\xF3\u017C\",
+      aby u\u017Cy\u0107 go na polu bitwy. Nast\u0119pnie wr\xF3\u0107 do zak\u0142adki
+      Zesp\xF3\u0142, klikaj\u0105c X w prawym g\xF3rnym rogu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70591523549184
+    m_Localized: "Kiedy zbierzesz wystarczaj\u0105c\u0105 ilo\u015B\u0107 duplikat\xF3w
+      artefakt\xF3w (gdy zdob\u0119dziesz wi\u0119cej tego samego artefaktu), mo\u017Cesz
+      je ewoluowa\u0107 w tym panelu, aby zwi\u0119kszy\u0107 warto\u015B\u0107 ich
+      specjalnej mocy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70746075262976
+    m_Localized: "Kup jedn\u0105 umiej\u0119tno\u015B\u0107 (po lewej stronie). Je\u015Bli
+      dokonasz z\u0142ego zakupu, zawsze mo\u017Cesz za darmo zresetowa\u0107 punkty
+      talent\xF3w, klikaj\u0105c g\u0142\xF3wne, \u015Brodkowe ko\u0142o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71111042625536
+    m_Localized: "Kliknij na zebranego bohatera i wybierz \u201EWyposa\u017C\u201D,
+      aby wys\u0142a\u0107 go na pole bitwy. Nast\u0119pnie wr\xF3\u0107 do zak\u0142adki
+      Zesp\xF3\u0142, klikaj\u0105c X w prawym g\xF3rnym rogu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71235839946752
+    m_Localized: "\u015Awietnie! Teraz otw\xF3rz zak\u0142adk\u0119 \u201ETalenty\u201D
+      na g\xF3rze tego okna."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71355864150016
+    m_Localized: "GRATULACJE!\nEksperymentuj i odkrywaj inne wspania\u0142e opcje
+      w grze, takie jak Kalendarz, Wiadomo\u015Bci, Osi\u0105gni\u0119cia i wiele
+      wi\u0119cej! W ramach podzi\u0119kowania..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71460059049984
+    m_Localized: "Na g\xF3rze ekranu znajdziesz: Miecz (Twoje obra\u017Cenia), warto\u015B\u0107
+      Z\u0142ota i Klejnot\xF3w. Po lewej stronie znajduje si\u0119 Tw\xF3j G\u0142\xF3wny
+      Bohater, a po prawej - Wr\xF3g."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71657635934208
+    m_Localized: "Kliknij na Zamek, aby otworzy\u0107 okno zarz\u0105dzania wiosk\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71857502908416
+    m_Localized: "DOCH\xD3D:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71973555105792
+    m_Localized: ZBIERZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72074168070144
+    m_Localized: RYNEK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72141323071488
+    m_Localized: KUP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79899653009408
+    m_Localized: Poziom Artefaktu
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

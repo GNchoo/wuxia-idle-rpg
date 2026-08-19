@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LanguagesTranslate Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LanguagesTranslate
+  m_TableCollectionNameGuidString: 8b75a3b7aca794040b1eeb9449a7d0b8
+  m_Entries:
+  - m_Id: 54889771008
+    m_Key: button_next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1123392909312
+    m_Key: button_music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9777961725952
+    m_Key: tutorial_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10260973580288
+    m_Key: tutorial_2_profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10684761862144
+    m_Key: tutorial_3_talents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10945312026624
+    m_Key: tutorial_4_artifact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11091600961536
+    m_Key: tutorial_5_upgradeheroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11256193839104
+    m_Key: tutorial_6_team4squares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11541087744000
+    m_Key: tutorial_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11667067858944
+    m_Key: tutorial_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11740547870720
+    m_Key: '
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12829829591040
+    m_Key: tutorial_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13478591950848
+    m_Key: tutorial_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13603687067648
+    m_Key: tutorial_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13753268531200
+    m_Key: tutorial_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13897334484992
+    m_Key: tutorial_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14172065591296
+    m_Key: tutorial_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19617660497920
+    m_Key: Some Talent Trees require you to unlock them in order to buy stronger
+      Talents. You can use skills in the Tab3 Battlefield Tab by clicking "Lightning
+      bolt" icon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19697838813184
+    m_Key: '9999
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20019898445824
+    m_Key: tutorial_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69831322726400
+    m_Key: tutorial_16_closedps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70465254027264
+    m_Key: tutorial_17_inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70591523549184
+    m_Key: tutorial_18_artifactduplicate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70746075262976
+    m_Key: tutorial_19_talent_skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70914052943872
+    m_Key: tutorial_20_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71111042625536
+    m_Key: tutorial_20_click_hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71235839946752
+    m_Key: tutorial21_opentalents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71355864150016
+    m_Key: tutorial22_congratz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71460059049984
+    m_Key: tutorial22_topsword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71657635934208
+    m_Key: tutorial23_clickcastle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71857502908416
+    m_Key: 'text_income:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71973555105792
+    m_Key: text_collect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72074168070144
+    m_Key: text_market
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72141323071488
+    m_Key: text_BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72222633848832
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79899653009408
+    m_Key: text_artifactlevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2943417037320192
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1736791082555

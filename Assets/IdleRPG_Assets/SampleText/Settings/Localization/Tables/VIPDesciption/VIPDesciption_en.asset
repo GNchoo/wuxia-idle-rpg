@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: VIPDesciption_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a329ade5f50a3714086d2e7cb8798a2b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 25253199872
+    m_Localized: '-Permanent offline income 16h
+
+      -Permanent offline x2 income
+      booster 4h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28671557632
+    m_Localized: '-Auto Daily Calendar login reward collection, collection from offline
+      days
+
+      -Remove Ads
+
+      -Permanent offline income 24h
+
+      -Permanent
+      offline x2 income boosters 6h
+
+      -Autocasting spells'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30831624192
+    m_Localized: '-Adding special achievments that gives passive bonuses for X waves
+      in the game.
+
+      -Permanent offline income 48h
+
+      -Permanent offline
+      x2 income booster 12h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32882638848
+    m_Localized: '-Permanent x2 damage to all side heroes and main hero
+
+      -Permanent
+      offline income 72h
+
+      -Permanent offline x2 income boosters 18h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35080454144
+    m_Localized: '-Permanent x2 gold income from village
+
+      -Permanent x2 items
+      drop from the gameplay bosses
+
+      -Permanent offline income 96h
+
+      -Permanent
+      offline x2 Income Booster 24h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37794168832
+    m_Localized: '-Permanent offline income 120h
+
+      -Permanent offline x2 income
+      booster 30h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40075870208
+    m_Localized: '-Permanent offline income 144h
+
+      -Permanent offline x2 income
+      booster 36h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42584064000
+    m_Localized: '-Permanent offline income 168h
+
+      -Permanent offline x2 income
+      booster 42h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60879618048
+    m_Localized: -Permanent gold income x3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57931022336
+    m_Localized: '-Permanent heroes damage x3
+
+      -Permanent offline income 192h
+
+      -Permanent
+      offline x2 income booster 48h'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831247433728
+    m_Localized: '-Permanent offline income 12h
+
+      -Auto collection from village'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

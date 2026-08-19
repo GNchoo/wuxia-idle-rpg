@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BoostersNames_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: f6d7ae3163a6a794f968ccdd03043643, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16092839936
+    m_Localized: "PODR\xD3\u017B W CZASIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47680143360
+    m_Localized: ZARABIAJ W TRYBIE OFFLINE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71323435008
+    m_Localized: "PODW\xD3JNY DOCH\xD3D WSI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176202006528
+    m_Localized: "PODW\xD3JNY Z\u0141OTY DOCH\xD3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1325529382912
+    m_Localized: "PIER\u015A BOHATERA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1349487247360
+    m_Localized: SKRZYNIA BOHATERA x10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1370886586368
+    m_Localized: LEGENDARNA SKRZYNIA
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

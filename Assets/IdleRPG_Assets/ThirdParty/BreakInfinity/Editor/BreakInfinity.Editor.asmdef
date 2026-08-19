@@ -1,0 +1,18 @@
+{
+    "name": "BreakInfinity.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3c1c42f803246ba44b0b127445d406f6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

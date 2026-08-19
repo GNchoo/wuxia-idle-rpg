@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StatsNames_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 8d4e7a2b4e7061940a1d4f699f4ab300, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1351085277184
+    m_Localized: "Zwi\u0119kszenie obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351148191744
+    m_Localized: "Krytyczne obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351152386048
+    m_Localized: Krytyczna szansa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351152386049
+    m_Localized: "Szybko\u015B\u0107 ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580352
+    m_Localized: "Czas odnowienia zakl\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580353
+    m_Localized: "Szansa na zmniejszenie czasu odnowienia zakl\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580354
+    m_Localized: Upadek szefa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580355
+    m_Localized: "Doch\xF3d wsi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580356
+    m_Localized: "Zwi\u0119kszone zbieranie klejnot\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580357
+    m_Localized: "Redukcja koszt\xF3w aktualizacji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580358
+    m_Localized: "Podw\xF3jna szansa na ulepszenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351156580359
+    m_Localized: "Podw\xF3jna szansa na punkty talent\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10138215297400832
+    m_Localized: "Doch\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10147179439407104
+    m_Localized: "Obra\u017Cenia umiej\u0119tno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10147881117106176
+    m_Localized: "Dok\u0142adno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150267684470784
+    m_Localized: "Wzrost produkcji z\u0142ota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150314023141376
+    m_Localized: "Wzrost produkcji z\u0142ota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10151433772285952
+    m_Localized: Natychmiastowa szansa na zabicie bossa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10151707391901696
+    m_Localized: "Ni\u017Csze zdrowie bossa"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

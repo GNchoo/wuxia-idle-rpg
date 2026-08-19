@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemNames_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 7fd42784789464341ad5badca7dd7687, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 52440678400
+    m_Localized: Drewniany Miecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010048
+    m_Localized: "Li\u015Bciasty He\u0142m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010049
+    m_Localized: Lniana Koszulka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010050
+    m_Localized: Zepsuty Amulet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010051
+    m_Localized: Podarte Spodnie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010052
+    m_Localized: "\u015Aredniowieczne Br\u0105zowe Buty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010053
+    m_Localized: Kula Ognia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010054
+    m_Localized: Mag Hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010055
+    m_Localized: Magiczna Szata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010056
+    m_Localized: "Rubinowy Pier\u015Bcie\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010057
+    m_Localized: Spodnie Maga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010058
+    m_Localized: Buty Maga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52491010059
+    m_Localized: "Mro\u017Any Top\xF3r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204352
+    m_Localized: "Lodowy He\u0142m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204353
+    m_Localized: Lodowa Zbroja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204354
+    m_Localized: Lodowy Amulet Lodowy Amulet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204355
+    m_Localized: Lodowe Spodnie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204356
+    m_Localized: Buty Lodowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204357
+    m_Localized: Sztylet Cienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204358
+    m_Localized: Maska Cienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204359
+    m_Localized: Demoniczna Zbroja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204360
+    m_Localized: Kolczyk Cienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204361
+    m_Localized: Demoniczne Spodnie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204362
+    m_Localized: Buty Cienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204363
+    m_Localized: "Rami\u0119 Robota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204364
+    m_Localized: Cybernetyczne Gogle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204365
+    m_Localized: Skrzynia Z Kevlaru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204366
+    m_Localized: "\u017Beton"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204367
+    m_Localized: Cyberpas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204368
+    m_Localized: Cyberstopy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204369
+    m_Localized: "W\u0142\xF3cznia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204370
+    m_Localized: "Afryka\u0144ska Maska"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204371
+    m_Localized: "Sk\xF3ra Zwierz\u0119ca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204372
+    m_Localized: Czaszka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204373
+    m_Localized: "Afryka\u0144ska Ok\u0142adka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204374
+    m_Localized: "Sanda\u0142y Pustyni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204375
+    m_Localized: Szabla Kapitana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204376
+    m_Localized: Kapelusz Kapitana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204377
+    m_Localized: Koszula Kapitana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204378
+    m_Localized: Przepaska Na Oko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204379
+    m_Localized: Spodnie Pirata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204380
+    m_Localized: Buty Pirata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204381
+    m_Localized: "Pistolet Na Wod\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204382
+    m_Localized: Grzybowy Kapelusz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204383
+    m_Localized: "Ochraniacze Na Ramiona Kacz\u0105tka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204384
+    m_Localized: "Wodoci\u0105g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52495204385
+    m_Localized: "Ko\u0142o Do P\u0142ywania Kacz\u0105tka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398656
+    m_Localized: "Japonki \u017Baby"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398657
+    m_Localized: "Niebia\u0144ski Zasi\u0119g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398658
+    m_Localized: Maska Niebios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398659
+    m_Localized: Zbroja Niebios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398660
+    m_Localized: "Skrzyde\u0142ka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398661
+    m_Localized: Lekka Zbroja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398662
+    m_Localized: "Niebia\u0144skie Buty"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398663
+    m_Localized: "\u015Aruba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398664
+    m_Localized: Aureola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398665
+    m_Localized: "G\xF3rna Zbroja Romana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398666
+    m_Localized: "\u015Awi\u0119ty Graal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398667
+    m_Localized: Dolna Zbroja Romana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52499398668
+    m_Localized: Buty Rzymskie
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

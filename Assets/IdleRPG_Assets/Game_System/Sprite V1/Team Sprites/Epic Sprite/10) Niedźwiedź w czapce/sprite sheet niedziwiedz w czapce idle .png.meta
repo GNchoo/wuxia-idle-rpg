@@ -1,0 +1,1446 @@
+fileFormatVersion: 2
+guid: b6e3c39e1edfad047ad5568b51ed5eed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8940121551083090248
+    second: sprite sheet niedziwiedz w czapce idle _0
+  - first:
+      213: -4708223092437236194
+    second: sprite sheet niedziwiedz w czapce idle _1
+  - first:
+      213: 2670444111431704173
+    second: sprite sheet niedziwiedz w czapce idle _2
+  - first:
+      213: 2187007793148736687
+    second: sprite sheet niedziwiedz w czapce idle _3
+  - first:
+      213: 9126366411419352532
+    second: sprite sheet niedziwiedz w czapce idle _4
+  - first:
+      213: 4152114997723803282
+    second: sprite sheet niedziwiedz w czapce idle _5
+  - first:
+      213: -6636176232667089645
+    second: sprite sheet niedziwiedz w czapce idle _6
+  - first:
+      213: 6919353913876280306
+    second: sprite sheet niedziwiedz w czapce idle _7
+  - first:
+      213: 4929473543166351321
+    second: sprite sheet niedziwiedz w czapce idle _8
+  - first:
+      213: 1710304896829002384
+    second: sprite sheet niedziwiedz w czapce idle _9
+  - first:
+      213: 3430498267727500868
+    second: sprite sheet niedziwiedz w czapce idle _10
+  - first:
+      213: -7692495304639561546
+    second: sprite sheet niedziwiedz w czapce idle _11
+  - first:
+      213: 8519998160418881643
+    second: sprite sheet niedziwiedz w czapce idle _12
+  - first:
+      213: 1946750532483937343
+    second: sprite sheet niedziwiedz w czapce idle _13
+  - first:
+      213: 4732901553535895477
+    second: sprite sheet niedziwiedz w czapce idle _14
+  - first:
+      213: -6297754247103782744
+    second: sprite sheet niedziwiedz w czapce idle _15
+  - first:
+      213: 1748752572807605825
+    second: sprite sheet niedziwiedz w czapce idle _16
+  - first:
+      213: 2797250953872801749
+    second: sprite sheet niedziwiedz w czapce idle _17
+  - first:
+      213: -1710042498721632484
+    second: sprite sheet niedziwiedz w czapce idle _18
+  - first:
+      213: 131214368437490742
+    second: sprite sheet niedziwiedz w czapce idle _19
+  - first:
+      213: -7658650290430219797
+    second: sprite sheet niedziwiedz w czapce idle _20
+  - first:
+      213: 2529022225473422483
+    second: sprite sheet niedziwiedz w czapce idle _21
+  - first:
+      213: -3292055862933598388
+    second: sprite sheet niedziwiedz w czapce idle _22
+  - first:
+      213: 4724283680528764163
+    second: sprite sheet niedziwiedz w czapce idle _23
+  - first:
+      213: -5247541375157781382
+    second: sprite sheet niedziwiedz w czapce idle _24
+  - first:
+      213: 8274545470649144981
+    second: sprite sheet niedziwiedz w czapce idle _25
+  - first:
+      213: -4473031237249927668
+    second: sprite sheet niedziwiedz w czapce idle _26
+  - first:
+      213: 7855852772137172327
+    second: sprite sheet niedziwiedz w czapce idle _27
+  - first:
+      213: -5694144177699215469
+    second: sprite sheet niedziwiedz w czapce idle _28
+  - first:
+      213: -6615011741480695696
+    second: sprite sheet niedziwiedz w czapce idle _29
+  - first:
+      213: -4582093396059898236
+    second: sprite sheet niedziwiedz w czapce idle _30
+  - first:
+      213: 4952542765586850709
+    second: sprite sheet niedziwiedz w czapce idle _31
+  - first:
+      213: 947429363749445338
+    second: sprite sheet niedziwiedz w czapce idle _32
+  - first:
+      213: -6101025605610385225
+    second: sprite sheet niedziwiedz w czapce idle _33
+  - first:
+      213: 538746209639472456
+    second: sprite sheet niedziwiedz w czapce idle _34
+  - first:
+      213: 3954614905212727208
+    second: sprite sheet niedziwiedz w czapce idle _35
+  - first:
+      213: 8297207074986638842
+    second: sprite sheet niedziwiedz w czapce idle _36
+  - first:
+      213: 5709311712920404435
+    second: sprite sheet niedziwiedz w czapce idle _37
+  - first:
+      213: -4697998622370371417
+    second: sprite sheet niedziwiedz w czapce idle _38
+  - first:
+      213: -8878819084529247960
+    second: sprite sheet niedziwiedz w czapce idle _39
+  - first:
+      213: -1254476410216944451
+    second: sprite sheet niedziwiedz w czapce idle _40
+  - first:
+      213: -5464987387942287431
+    second: sprite sheet niedziwiedz w czapce idle _41
+  - first:
+      213: 296638748306597562
+    second: sprite sheet niedziwiedz w czapce idle _42
+  - first:
+      213: -6596807964714971264
+    second: sprite sheet niedziwiedz w czapce idle _43
+  - first:
+      213: -6872690660618386962
+    second: sprite sheet niedziwiedz w czapce idle _44
+  - first:
+      213: 9062073982616601598
+    second: sprite sheet niedziwiedz w czapce idle _45
+  - first:
+      213: -6159823067793948959
+    second: sprite sheet niedziwiedz w czapce idle _46
+  - first:
+      213: -4581184390342574293
+    second: sprite sheet niedziwiedz w czapce idle _47
+  - first:
+      213: 3439032058649403609
+    second: sprite sheet niedziwiedz w czapce idle _48
+  - first:
+      213: -5303815440763823564
+    second: sprite sheet niedziwiedz w czapce idle _49
+  - first:
+      213: 857894934751163595
+    second: sprite sheet niedziwiedz w czapce idle _50
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec0eae0de4ee380800000000000000
+      internalID: -8940121551083090248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ccfbea0809aeb0800000000000000
+      internalID: -4708223092437236194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9b6e45c25f0520800000000000000
+      internalID: 2670444111431704173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa434a72000d95e10800000000000000
+      internalID: 2187007793148736687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddf4bac5ed57ae70800000000000000
+      internalID: 9126366411419352532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e26e177964f9930800000000000000
+      internalID: 4152114997723803282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315fcf850e097e3a0800000000000000
+      internalID: -6636176232667089645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fdcf69bb760060800000000000000
+      internalID: 6919353913876280306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7dd1ee112096440800000000000000
+      internalID: 4929473543166351321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0929a19fd393cb710800000000000000
+      internalID: 1710304896829002384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4469d7abff39b9f20800000000000000
+      internalID: 3430498267727500868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0499ae644ce3590800000000000000
+      internalID: -7692495304639561546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60cfbe9f2d1d3670800000000000000
+      internalID: 8519998160418881643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f1038b4f340b10800000000000000
+      internalID: 1946750532483937343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c66f03e4aea140800000000000000
+      internalID: 4732901553535895477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0eba211e1e998a0800000000000000
+      internalID: -6297754247103782744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6f3e1331d44810800000000000000
+      internalID: 1748752572807605825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff53d0ce4d1d620800000000000000
+      internalID: 2797250953872801749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f20e85865b448e0800000000000000
+      internalID: -1710042498721632484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d42cd5ca22d100800000000000000
+      internalID: 131214368437490742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e6fb532207b590800000000000000
+      internalID: -7658650290430219797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39449629054e81320800000000000000
+      internalID: 2529022225473422483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc91d72a44052d0800000000000000
+      internalID: -3292055862933598388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d87142af6009140800000000000000
+      internalID: 4724283680528764163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3e850cecfc27b0800000000000000
+      internalID: -5247541375157781382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5961cdfd34715d270800000000000000
+      internalID: 8274545470649144981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06fd72f9c99ce1c0800000000000000
+      internalID: -4473031237249927668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76df0036978950d60800000000000000
+      internalID: 7855852772137172327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397216c0a065af0b0800000000000000
+      internalID: -5694144177699215469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07841047ed1c234a0800000000000000
+      internalID: -6615011741480695696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ebf2055522960c0800000000000000
+      internalID: -4582093396059898236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5932cb5d767fab440800000000000000
+      internalID: 4952542765586850709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5f049cf1f52d00800000000000000
+      internalID: 947429363749445338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0d70c498dc45ba0800000000000000
+      internalID: -6101025605610385225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d16a1c2d20a7700800000000000000
+      internalID: 538746209639472456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6ba8cd4d91e630800000000000000
+      internalID: 3954614905212727208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbf6ccfd9952370800000000000000
+      internalID: 8297207074986638842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d10990f0cc8b3f40800000000000000
+      internalID: 5709311712920404435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e65ed42b5dceb0800000000000000
+      internalID: -4697998622370371417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829dca9a51918c480800000000000000
+      internalID: -8878819084529247960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc69e5f954379ee0800000000000000
+      internalID: -1254476410216944451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c5b7ece67824b0800000000000000
+      internalID: -5464987387942287431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66e63be5fdd1400800000000000000
+      internalID: 296638748306597562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f42b38b1e6374a0800000000000000
+      internalID: -6596807964714971264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee142bad14c4f90a0800000000000000
+      internalID: -6872690660618386962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef30c263644f2cd70800000000000000
+      internalID: 9062073982616601598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee72e45e89e38aa0800000000000000
+      internalID: -6159823067793948959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff013b11d5c60c0800000000000000
+      internalID: -4581184390342574293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d06af2cf65e9bf20800000000000000
+      internalID: 3439032058649403609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a5a0b15ff0566b0800000000000000
+      internalID: -5303815440763823564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet niedziwiedz w czapce idle _50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc43378d5ead7eb00800000000000000
+      internalID: 857894934751163595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite sheet niedziwiedz w czapce idle _0: -8940121551083090248
+      sprite sheet niedziwiedz w czapce idle _1: -4708223092437236194
+      sprite sheet niedziwiedz w czapce idle _10: 3430498267727500868
+      sprite sheet niedziwiedz w czapce idle _11: -7692495304639561546
+      sprite sheet niedziwiedz w czapce idle _12: 8519998160418881643
+      sprite sheet niedziwiedz w czapce idle _13: 1946750532483937343
+      sprite sheet niedziwiedz w czapce idle _14: 4732901553535895477
+      sprite sheet niedziwiedz w czapce idle _15: -6297754247103782744
+      sprite sheet niedziwiedz w czapce idle _16: 1748752572807605825
+      sprite sheet niedziwiedz w czapce idle _17: 2797250953872801749
+      sprite sheet niedziwiedz w czapce idle _18: -1710042498721632484
+      sprite sheet niedziwiedz w czapce idle _19: 131214368437490742
+      sprite sheet niedziwiedz w czapce idle _2: 2670444111431704173
+      sprite sheet niedziwiedz w czapce idle _20: -7658650290430219797
+      sprite sheet niedziwiedz w czapce idle _21: 2529022225473422483
+      sprite sheet niedziwiedz w czapce idle _22: -3292055862933598388
+      sprite sheet niedziwiedz w czapce idle _23: 4724283680528764163
+      sprite sheet niedziwiedz w czapce idle _24: -5247541375157781382
+      sprite sheet niedziwiedz w czapce idle _25: 8274545470649144981
+      sprite sheet niedziwiedz w czapce idle _26: -4473031237249927668
+      sprite sheet niedziwiedz w czapce idle _27: 7855852772137172327
+      sprite sheet niedziwiedz w czapce idle _28: -5694144177699215469
+      sprite sheet niedziwiedz w czapce idle _29: -6615011741480695696
+      sprite sheet niedziwiedz w czapce idle _3: 2187007793148736687
+      sprite sheet niedziwiedz w czapce idle _30: -4582093396059898236
+      sprite sheet niedziwiedz w czapce idle _31: 4952542765586850709
+      sprite sheet niedziwiedz w czapce idle _32: 947429363749445338
+      sprite sheet niedziwiedz w czapce idle _33: -6101025605610385225
+      sprite sheet niedziwiedz w czapce idle _34: 538746209639472456
+      sprite sheet niedziwiedz w czapce idle _35: 3954614905212727208
+      sprite sheet niedziwiedz w czapce idle _36: 8297207074986638842
+      sprite sheet niedziwiedz w czapce idle _37: 5709311712920404435
+      sprite sheet niedziwiedz w czapce idle _38: -4697998622370371417
+      sprite sheet niedziwiedz w czapce idle _39: -8878819084529247960
+      sprite sheet niedziwiedz w czapce idle _4: 9126366411419352532
+      sprite sheet niedziwiedz w czapce idle _40: -1254476410216944451
+      sprite sheet niedziwiedz w czapce idle _41: -5464987387942287431
+      sprite sheet niedziwiedz w czapce idle _42: 296638748306597562
+      sprite sheet niedziwiedz w czapce idle _43: -6596807964714971264
+      sprite sheet niedziwiedz w czapce idle _44: -6872690660618386962
+      sprite sheet niedziwiedz w czapce idle _45: 9062073982616601598
+      sprite sheet niedziwiedz w czapce idle _46: -6159823067793948959
+      sprite sheet niedziwiedz w czapce idle _47: -4581184390342574293
+      sprite sheet niedziwiedz w czapce idle _48: 3439032058649403609
+      sprite sheet niedziwiedz w czapce idle _49: -5303815440763823564
+      sprite sheet niedziwiedz w czapce idle _5: 4152114997723803282
+      sprite sheet niedziwiedz w czapce idle _50: 857894934751163595
+      sprite sheet niedziwiedz w czapce idle _6: -6636176232667089645
+      sprite sheet niedziwiedz w czapce idle _7: 6919353913876280306
+      sprite sheet niedziwiedz w czapce idle _8: 4929473543166351321
+      sprite sheet niedziwiedz w czapce idle _9: 1710304896829002384
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

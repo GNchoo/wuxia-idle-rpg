@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BossNames_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cb9a997114423c242941856d5da00630, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1159185814601728
+    m_Localized: Wild Dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321984
+    m_Localized: Bull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321985
+    m_Localized: Scarecrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321986
+    m_Localized: Peasant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321987
+    m_Localized: Boar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321988
+    m_Localized: Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321989
+    m_Localized: Noonwraith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321990
+    m_Localized: Giant Spider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321991
+    m_Localized: Dryad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321992
+    m_Localized: Leshy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516288
+    m_Localized: Bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516289
+    m_Localized: Troll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516290
+    m_Localized: Chort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516291
+    m_Localized: Goblin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516292
+    m_Localized: Angry Mob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516293
+    m_Localized: Statue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516294
+    m_Localized: Fire Golem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516295
+    m_Localized: Lava Worm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516296
+    m_Localized: Spark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516297
+    m_Localized: Lava Humanoid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516298
+    m_Localized: Dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516299
+    m_Localized: Fenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516300
+    m_Localized: Diablo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516301
+    m_Localized: Volcanic Humanoid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516302
+    m_Localized: Griffon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516303
+    m_Localized: Orc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516304
+    m_Localized: Wendigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516305
+    m_Localized: Rocky Snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516306
+    m_Localized: Saber Tooth Tiger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516307
+    m_Localized: Yeti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516308
+    m_Localized: Mahaha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516309
+    m_Localized: Icicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516310
+    m_Localized: Ghul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516311
+    m_Localized: Phantom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516312
+    m_Localized: Skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516313
+    m_Localized: Bat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516314
+    m_Localized: Guardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516315
+    m_Localized: Hedge Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516316
+    m_Localized: Barbarian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516317
+    m_Localized: Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516318
+    m_Localized: Your Alter Ego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516319
+    m_Localized: Dark Princess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516320
+    m_Localized: Slender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516321
+    m_Localized: Nightmare Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516322
+    m_Localized: Cyborg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516323
+    m_Localized: Animal Mech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516324
+    m_Localized: Mantis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516325
+    m_Localized: Virus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516326
+    m_Localized: Biker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516327
+    m_Localized: Madman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516328
+    m_Localized: Junk Mech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516329
+    m_Localized: Mutant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516330
+    m_Localized: Scorpio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516331
+    m_Localized: Mummy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516332
+    m_Localized: Snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710592
+    m_Localized: Sphinx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710593
+    m_Localized: Shaman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710594
+    m_Localized: Slave Trader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710595
+    m_Localized: Gin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710596
+    m_Localized: Sobek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710597
+    m_Localized: Murloc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710598
+    m_Localized: Sentry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710599
+    m_Localized: Kelpie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710600
+    m_Localized: Sea Creature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710601
+    m_Localized: Pirate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710602
+    m_Localized: Drowned Dead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710603
+    m_Localized: Kraken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710604
+    m_Localized: Storm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710605
+    m_Localized: Witch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710606
+    m_Localized: Tooth Fairy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710607
+    m_Localized: Mushroom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710608
+    m_Localized: Unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710609
+    m_Localized: Hippogriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710610
+    m_Localized: Flying Snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710611
+    m_Localized: Airship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710612
+    m_Localized: Demon Raven
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710613
+    m_Localized: Fallen Angel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710614
+    m_Localized: Hermes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754272536936448
+    m_Localized: Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754306582102016
+    m_Localized: Dragon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

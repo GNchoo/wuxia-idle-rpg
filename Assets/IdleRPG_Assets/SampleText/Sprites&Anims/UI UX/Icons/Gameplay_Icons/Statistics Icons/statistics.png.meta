@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 18e82ac413fdc2a4cb0274b3770ee752
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6575838343417652090
+    second: UpgradeCostReduction
+  - first:
+      213: 3365959679458866253
+    second: GoldIncome
+  - first:
+      213: 4384674831963147719
+    second: VillageIncome
+  - first:
+      213: 8207014056136094817
+    second: GoldIncreaseProduction
+  - first:
+      213: -5494451439706880230
+    second: GoldIncreaseProductionFlat
+  - first:
+      213: -2856150909979470350
+    second: DamageAccuracy
+  - first:
+      213: -4880226466984798899
+    second: DropItemChance
+  - first:
+      213: 6197868244678003847
+    second: InstaKillBossChance
+  - first:
+      213: -721251073900493604
+    second: LowerBossHealthChance
+  - first:
+      213: 2068479543852331511
+    second: AttackSpeed
+  - first:
+      213: -2508825348470124640
+    second: ItemUpgrade
+  - first:
+      213: -2263958512694155664
+    second: SkillResetChance
+  - first:
+      213: -2777640092176752586
+    second: SkillDamage
+  - first:
+      213: -2316341578657190264
+    second: SkillCooldown
+  - first:
+      213: 1034333941616500300
+    second: PrestigeDoubleTalent
+  - first:
+      213: -3502496815014623875
+    second: DamageFlat
+  - first:
+      213: -6978013330313224010
+    second: Damage
+  - first:
+      213: -7314255416303318074
+    second: CriticalDamage
+  - first:
+      213: -6784462905073381976
+    second: CriticalHitChance
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpgradeCostReduction
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a736dcf0222124b50800000000000000
+      internalID: 6575838343417652090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldIncome
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 834.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44fe6eae7a46be20800000000000000
+      internalID: 3365959679458866253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillageIncome
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 834.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd42c6578e79dc30800000000000000
+      internalID: 4384674831963147719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldIncreaseProduction
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 853
+        width: 217
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16431aa2dcb25e170800000000000000
+      internalID: 8207014056136094817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldIncreaseProductionFlat
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 841
+        width: 189
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1743a4c689cfb3b0800000000000000
+      internalID: -5494451439706880230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageAccuracy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5d3c141e9ec58d0800000000000000
+      internalID: -2856150909979470350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropItemChance
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 563.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4559e382e3f54cb0800000000000000
+      internalID: -4880226466984798899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InstaKillBossChance
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 563.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc4b0b450430650800000000000000
+      internalID: 6197868244678003847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LowerBossHealthChance
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 564
+        width: 226
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ca4a38f99df5f0800000000000000
+      internalID: -721251073900493604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackSpeed
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 563
+        width: 260
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1fa749f27b4bc10800000000000000
+      internalID: 2068479543852331511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItemUpgrade
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af41fc43acde2dd0800000000000000
+      internalID: -2508825348470124640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillResetChance
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 292.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a4a84abdc490e0800000000000000
+      internalID: -2263958512694155664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillDamage
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 292.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ebef7d07d379d0800000000000000
+      internalID: -2777640092176752586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillCooldown
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 292.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eaba15b93badfd0800000000000000
+      internalID: -2316341578657190264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrestigeDoubleTalent
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 292.5
+        width: 244.4
+        height: 251.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5e216d31ba5e00800000000000000
+      internalID: 1034333941616500300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageFlat
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 244
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75cd1a24b1a46fc0800000000000000
+      internalID: -3502496815014623875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 23
+        width: 244
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b06db0e8dd192f90800000000000000
+      internalID: -6978013330313224010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriticalDamage
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 21
+        width: 244
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb83c2937b8e7a90800000000000000
+      internalID: -7314255416303318074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriticalHitChance
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 21
+        width: 244
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad4947feeeb8d1a0800000000000000
+      internalID: -6784462905073381976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AttackSpeed: 2068479543852331511
+      CriticalDamage: -7314255416303318074
+      CriticalHitChance: -6784462905073381976
+      Damage: -6978013330313224010
+      DamageAccuracy: -2856150909979470350
+      DamageFlat: -3502496815014623875
+      DropItemChance: -4880226466984798899
+      GoldIncome: 3365959679458866253
+      GoldIncreaseProduction: 8207014056136094817
+      GoldIncreaseProductionFlat: -5494451439706880230
+      InstaKillBossChance: 6197868244678003847
+      ItemUpgrade: -2508825348470124640
+      LowerBossHealthChance: -721251073900493604
+      PrestigeDoubleTalent: 1034333941616500300
+      SkillCooldown: -2316341578657190264
+      SkillDamage: -2777640092176752586
+      SkillResetChance: -2263958512694155664
+      UpgradeCostReduction: 6575838343417652090
+      VillageIncome: 4384674831963147719
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

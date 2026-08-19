@@ -1,0 +1,267 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ItemDescription Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ItemDescription
+  m_TableCollectionNameGuidString: 5516570f8e6cfeb41b5473f2c1ead45d
+  m_Entries:
+  - m_Id: 50997837824
+    m_Key: wooden-sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197952
+    m_Key: leafhelmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197953
+    m_Key: linen-t-shirt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197954
+    m_Key: broken-amulet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197955
+    m_Key: torn-pants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197956
+    m_Key: medieval-brown-boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197957
+    m_Key: fireball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197958
+    m_Key: mage-hood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197959
+    m_Key: magic-robe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197960
+    m_Key: ruby-ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197961
+    m_Key: mage-pants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197962
+    m_Key: mage-boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197963
+    m_Key: frosty-axe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197964
+    m_Key: ice-helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197965
+    m_Key: ice-armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197966
+    m_Key: lodowy-amulet-ice-amulet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197967
+    m_Key: ice-pants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197968
+    m_Key: ice-shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197969
+    m_Key: shadow-dagger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197970
+    m_Key: shadow-mask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197971
+    m_Key: demonic-armour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197972
+    m_Key: shadow-earring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197973
+    m_Key: demonic-pants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51027197974
+    m_Key: shadow-shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392256
+    m_Key: robotic-arm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392257
+    m_Key: cyber-goggles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392258
+    m_Key: kevlar-chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392259
+    m_Key: chip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392260
+    m_Key: cyber-belt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392261
+    m_Key: cyber-feet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392262
+    m_Key: spear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392263
+    m_Key: african-mask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392264
+    m_Key: animals-skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392265
+    m_Key: skull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392266
+    m_Key: african-cover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392267
+    m_Key: desert-sandals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392268
+    m_Key: captains-saber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392269
+    m_Key: captains-hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392270
+    m_Key: capitans-shirt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392271
+    m_Key: eye-patch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392272
+    m_Key: pirates-pants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392273
+    m_Key: pirates-boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392274
+    m_Key: water-pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392275
+    m_Key: mushroom-hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392276
+    m_Key: ducklings-shoulder-pads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392277
+    m_Key: water-pipe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392278
+    m_Key: ducklings-swimming-wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392279
+    m_Key: frogs-flipflops
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392280
+    m_Key: heavens-range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392281
+    m_Key: heavens-mask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392282
+    m_Key: heavens-armour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392283
+    m_Key: wings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392284
+    m_Key: light-armour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51031392285
+    m_Key: heavens-shoes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51035586560
+    m_Key: bolt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51035586561
+    m_Key: aureola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51035586562
+    m_Key: romans-upper-armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51035586563
+    m_Key: holy-grail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51035586564
+    m_Key: romans-lower-armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51035586565
+    m_Key: roman-shoes
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675331631636

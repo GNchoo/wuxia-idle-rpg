@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AchievmentsNames_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cca142af7d21ea345a2f61c69f93441b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 201162309632
+    m_Localized: Maximum Hero Evolve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201212641280
+    m_Localized: Collect Reward from Post
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201212641281
+    m_Localized: Collected Talent Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201212641282
+    m_Localized: Artifact Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835584
+    m_Localized: Collected Artifacts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835585
+    m_Localized: First Prestige
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835586
+    m_Localized: Collect all Heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835587
+    m_Localized: Find first Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835588
+    m_Localized: Collected Heroes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835589
+    m_Localized: Stronghold Builder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835590
+    m_Localized: King of the Castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835591
+    m_Localized: Collected Gems
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835592
+    m_Localized: Legendary Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835593
+    m_Localized: Earned gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835594
+    m_Localized: First Building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835595
+    m_Localized: Building Upgrades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835596
+    m_Localized: Unlock Achievments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835597
+    m_Localized: Overall Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835598
+    m_Localized: Heroes Upgrades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835599
+    m_Localized: Maximum DPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835600
+    m_Localized: Daily Visitor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 201216835601
+    m_Localized: Waves Conqueror
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b692892b869ce4cb14c475641a7590, type: 3}
+  m_Name: 2 Linen T-Shirt
+  m_EditorClassIdentifier: 
+  LanguageReferenceOnly:
+  - ENGLISH
+  - POLISH
+  - RUSSIAN
+  ItemName:
+  - Linen T-shirt
+  - Lniana Koszulka
+  - "\u041B\u044C\u043D\u044F\u043D\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u043A\u0430"
+  ItemDescription:
+  - There Are Traces Of Blood On It
+  - "S\u0105 Na Nim \u015Alady Krwi"
+  - "\u041D\u0430 \u041D\u0435\u043C \u0421\u043B\u0435\u0434\u044B \u041A\u0440\u043E\u0432\u0438"
+  ItemNameID: 2
+  itemType: 2
+  Image: {fileID: 21300000, guid: c00ba2913c0f20b40811db1d5e525062, type: 3}
+  ItemIDSO: 2
+  ItemCurrentCount: 0
+  ItemMaxLevelID: 0
+  ItemNextMaxLevel: 0a0000000f0000001900000028000000370000005000000078000000c800000054010000f4010000
+  ItemStatsValue: 0

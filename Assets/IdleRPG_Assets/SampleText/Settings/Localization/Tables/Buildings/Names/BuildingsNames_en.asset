@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BuildingsNames_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d0ddc4329e928ab44aebc3f0463f17b3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1947150401537
+    m_Localized: Market
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947150401536
+    m_Localized: Castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947150401538
+    m_Localized: Town Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947150401539
+    m_Localized: Mages Guild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595840
+    m_Localized: Butcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595841
+    m_Localized: Library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595842
+    m_Localized: Alchemist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595843
+    m_Localized: Fisherman's Hut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595844
+    m_Localized: Harbor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595845
+    m_Localized: Cow Farm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595846
+    m_Localized: Volcano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595847
+    m_Localized: Our Statue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595848
+    m_Localized: A Hole In The Ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595849
+    m_Localized: Court
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595850
+    m_Localized: Center Square
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595851
+    m_Localized: Training Ground
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595852
+    m_Localized: Plain Cottage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595853
+    m_Localized: Church
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595854
+    m_Localized: Altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595855
+    m_Localized: Chariot Parking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595856
+    m_Localized: Ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595857
+    m_Localized: Armory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595858
+    m_Localized: Clinic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595859
+    m_Localized: Ironworks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595860
+    m_Localized: Artifact Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595861
+    m_Localized: Cemetery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595862
+    m_Localized: Power Station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595863
+    m_Localized: Thieves Guild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595864
+    m_Localized: Greenhouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595865
+    m_Localized: Robot Factory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1947154595866
+    m_Localized: Monster Zoo
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

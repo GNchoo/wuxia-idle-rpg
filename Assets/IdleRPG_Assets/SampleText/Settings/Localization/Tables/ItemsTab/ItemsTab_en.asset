@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemsTab_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ded10dfeef799984dabeba665171dc1c, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 7788118016
+    m_Localized: BOOSTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10988371968
+    m_Localized: ITEMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13098106880
+    m_Localized: BUY GEMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357704279343104
+    m_Localized: 'CHESTS:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357815524868096
+    m_Localized: 'ARTIFACTS:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357851256143872
+    m_Localized: 'BUY GEMS:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357960903639040
+    m_Localized: 'DAILY BUNDLES:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357988871258112
+    m_Localized: 'FREE GIFT:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8358032563322880
+    m_Localized: SPEEDS AND BOOSTERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12324760804737024
+    m_Localized: 'YOU RECEIVE:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12325020084027392
+    m_Localized: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12325030238437376
+    m_Localized: COLLECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12326601907060736
+    m_Localized: '{0} <sprite=0>'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 12326773319876608
+    m_Localized: FREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13364545711325184
+    m_Localized: 'WATCH AD
+
+      {0} LEFT'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 13364485967659008
+    m_Localized: COLLECTED TODAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27181971221594112
+    m_Localized: Bought
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35478482158174208
+    m_Localized: VIP {0} BENEFITS
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 35479067192279040
+    m_Localized: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35479084208570368
+    m_Localized: PREVIOUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52571201284161536
+    m_Localized: GEMS
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0040f5a7faca2b000040b5c7fb7a2f00004035d67d0b7e00

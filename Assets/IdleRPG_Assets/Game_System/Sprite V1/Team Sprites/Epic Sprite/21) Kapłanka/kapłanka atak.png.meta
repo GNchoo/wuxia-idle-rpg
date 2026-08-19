@@ -1,0 +1,1329 @@
+fileFormatVersion: 2
+guid: cf7db0002cedde9439bee8674586c130
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3725777454595783404
+    second: "kap\u0142anka atak_0"
+  - first:
+      213: 7699547454480330979
+    second: "kap\u0142anka atak_1"
+  - first:
+      213: 3386018782197030197
+    second: "kap\u0142anka atak_2"
+  - first:
+      213: 6971875498290648839
+    second: "kap\u0142anka atak_3"
+  - first:
+      213: 8348298648927116410
+    second: "kap\u0142anka atak_4"
+  - first:
+      213: -6672883998793212033
+    second: "kap\u0142anka atak_5"
+  - first:
+      213: 353430618298234217
+    second: "kap\u0142anka atak_6"
+  - first:
+      213: 4493806738020911361
+    second: "kap\u0142anka atak_7"
+  - first:
+      213: -5400178148369057291
+    second: "kap\u0142anka atak_8"
+  - first:
+      213: -9177655731594051055
+    second: "kap\u0142anka atak_9"
+  - first:
+      213: -6921400460509876160
+    second: "kap\u0142anka atak_10"
+  - first:
+      213: -3258491882959584026
+    second: "kap\u0142anka atak_11"
+  - first:
+      213: 163367707254188731
+    second: "kap\u0142anka atak_12"
+  - first:
+      213: 1772257017004397369
+    second: "kap\u0142anka atak_13"
+  - first:
+      213: 7499851751350878063
+    second: "kap\u0142anka atak_14"
+  - first:
+      213: 8869056973700104468
+    second: "kap\u0142anka atak_15"
+  - first:
+      213: -5791897818887308765
+    second: "kap\u0142anka atak_16"
+  - first:
+      213: -2126544323794198500
+    second: "kap\u0142anka atak_17"
+  - first:
+      213: -6235553173849040825
+    second: "kap\u0142anka atak_18"
+  - first:
+      213: -8215285309246666833
+    second: "kap\u0142anka atak_19"
+  - first:
+      213: 5528268884247468990
+    second: "kap\u0142anka atak_20"
+  - first:
+      213: -6245958958928365206
+    second: "kap\u0142anka atak_21"
+  - first:
+      213: 4275156654102075289
+    second: "kap\u0142anka atak_22"
+  - first:
+      213: 2166925659386644828
+    second: "kap\u0142anka atak_23"
+  - first:
+      213: 8263494354787523480
+    second: "kap\u0142anka atak_24"
+  - first:
+      213: 1928466331162359565
+    second: "kap\u0142anka atak_25"
+  - first:
+      213: 2225594337227755400
+    second: "kap\u0142anka atak_26"
+  - first:
+      213: -679595373541981944
+    second: "kap\u0142anka atak_27"
+  - first:
+      213: 7700302734916437079
+    second: "kap\u0142anka atak_28"
+  - first:
+      213: -3987658540730974051
+    second: "kap\u0142anka atak_29"
+  - first:
+      213: -3367848910291917596
+    second: "kap\u0142anka atak_30"
+  - first:
+      213: -3062252093188998852
+    second: "kap\u0142anka atak_31"
+  - first:
+      213: 7024083643790202829
+    second: "kap\u0142anka atak_32"
+  - first:
+      213: -296560930073050480
+    second: "kap\u0142anka atak_33"
+  - first:
+      213: 8834572286099971058
+    second: "kap\u0142anka atak_34"
+  - first:
+      213: 1583605796263455860
+    second: "kap\u0142anka atak_35"
+  - first:
+      213: 8631426826207054620
+    second: "kap\u0142anka atak_36"
+  - first:
+      213: 6389017414467365311
+    second: "kap\u0142anka atak_37"
+  - first:
+      213: 1603766423868268680
+    second: "kap\u0142anka atak_38"
+  - first:
+      213: -1719955130902000158
+    second: "kap\u0142anka atak_39"
+  - first:
+      213: -4358848900434471980
+    second: "kap\u0142anka atak_40"
+  - first:
+      213: 3573313392219844294
+    second: "kap\u0142anka atak_41"
+  - first:
+      213: -1982303593333751503
+    second: "kap\u0142anka atak_42"
+  - first:
+      213: 4955592261897193409
+    second: "kap\u0142anka atak_43"
+  - first:
+      213: -2204655052224962566
+    second: "kap\u0142anka atak_44"
+  - first:
+      213: -5150152635375442226
+    second: "kap\u0142anka atak_45"
+  - first:
+      213: -3349997414211696769
+    second: "kap\u0142anka atak_46"
+  - first:
+      213: -1703810603532732879
+    second: "kap\u0142anka atak_47"
+  - first:
+      213: 3196831120726504376
+    second: "kap\u0142anka atak_48"
+  - first:
+      213: -2694507602308277743
+    second: "kap\u0142anka atak_49"
+  - first:
+      213: -5974466580784080556
+    second: "kap\u0142anka atak_50"
+  - first:
+      213: 7514034593455129377
+    second: "kap\u0142anka atak_51"
+  - first:
+      213: -6232433063557671650
+    second: "kap\u0142anka atak_52"
+  - first:
+      213: 3941346319207710883
+    second: "kap\u0142anka atak_53"
+  - first:
+      213: 1374792864029626325
+    second: "kap\u0142anka atak_54"
+  - first:
+      213: 2797985524473463345
+    second: "kap\u0142anka atak_55"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 70
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c8a225216b4cc0800000000000000
+      internalID: -3725777454595783404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_1"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0309bad994ada60800000000000000
+      internalID: 7699547454480330979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_2"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d97ab742e8dfe20800000000000000
+      internalID: 3386018782197030197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_3"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071dddb3d311c060800000000000000
+      internalID: 6971875498290648839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_4"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c9c28d36d1bd370800000000000000
+      internalID: 8348298648927116410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_5"
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fda888b572563a0800000000000000
+      internalID: -6672883998793212033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_6"
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b9685643a7e400800000000000000
+      internalID: 353430618298234217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_7"
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1706.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1094ef44b653d5e30800000000000000
+      internalID: 4493806738020911361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b2aed596be05b0800000000000000
+      internalID: -5400178148369057291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_9"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124287ccba62a080800000000000000
+      internalID: -9177655731594051055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_10"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040751bc3fe32ff90800000000000000
+      internalID: -6921400460509876160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_11"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e443bc85e287c2d0800000000000000
+      internalID: -3258491882959584026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_12"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae7ae6016644200800000000000000
+      internalID: 163367707254188731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_13"
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9339d3dfd52589810800000000000000
+      internalID: 1772257017004397369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_14"
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3c539e63d41860800000000000000
+      internalID: 7499851751350878063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_15"
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1365.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411881ac358351b70800000000000000
+      internalID: 8869056973700104468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32abcd9de9b0f9fa0800000000000000
+      internalID: -5791897818887308765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_17"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10af15543ffc72e0800000000000000
+      internalID: -2126544323794198500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_18"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481baefc6dd679a0800000000000000
+      internalID: -6235553173849040825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_19"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa70ed5a9817dfd80800000000000000
+      internalID: -8215285309246666833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_20"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb5a6c924b58bc40800000000000000
+      internalID: 5528268884247468990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_21"
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69f76b5b65e159a0800000000000000
+      internalID: -6245958958928365206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_22"
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d6ee7358645b30800000000000000
+      internalID: 4275156654102075289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_23"
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1024.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c598b660867721e10800000000000000
+      internalID: 2166925659386644828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b5e847554dda270800000000000000
+      internalID: 8263494354787523480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_25"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07bb3629e943ca10800000000000000
+      internalID: 1928466331162359565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_26"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc49c0246e2ee10800000000000000
+      internalID: 2225594337227755400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_27"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8010801cb979196f0800000000000000
+      internalID: -679595373541981944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_28"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c9a91a88fcda60800000000000000
+      internalID: 7700302734916437079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_29"
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d908d2a4fadf8a8c0800000000000000
+      internalID: -3987658540730974051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_30"
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e42ddc724ff241d0800000000000000
+      internalID: -3367848910291917596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_31"
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 683.6666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f5cc12f1b085d0800000000000000
+      internalID: -3062252093188998852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71fbcdbde8a7160800000000000000
+      internalID: 7024083643790202829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_33"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0928cb4c76762ebf0800000000000000
+      internalID: -296560930073050480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_34"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbdf77cfa4ba9a70800000000000000
+      internalID: 8834572286099971058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_35"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6886d4191af510800000000000000
+      internalID: 1583605796263455860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_36"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b49d897fcf8c770800000000000000
+      internalID: 8631426826207054620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_37"
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ac1dec795aa850800000000000000
+      internalID: 6389017414467365311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_38"
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ed5db019b14610800000000000000
+      internalID: 1603766423868268680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_39"
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 342.66666
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc9f0dbed7128e0800000000000000
+      internalID: -1719955130902000158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_40"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666565
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3500ce4024283c0800000000000000
+      internalID: -4358848900434471980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_41"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1.6666565
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee8661995f69130800000000000000
+      internalID: 3573313392219844294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_42"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1.6666565
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1318c5272617d74e0800000000000000
+      internalID: -1982303593333751503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_43"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1.6666565
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c78e0608ecc5c440800000000000000
+      internalID: 4955592261897193409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kap\u0142anka atak_44"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1.6666565
+        width: 320
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5cd729ed7761e0800000000000000
+      internalID: -2204655052224962566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "kap\u0142anka atak_0": -3725777454595783404
+      "kap\u0142anka atak_1": 7699547454480330979
+      "kap\u0142anka atak_10": -6921400460509876160
+      "kap\u0142anka atak_11": -3258491882959584026
+      "kap\u0142anka atak_12": 163367707254188731
+      "kap\u0142anka atak_13": 1772257017004397369
+      "kap\u0142anka atak_14": 7499851751350878063
+      "kap\u0142anka atak_15": 8869056973700104468
+      "kap\u0142anka atak_16": -5791897818887308765
+      "kap\u0142anka atak_17": -2126544323794198500
+      "kap\u0142anka atak_18": -6235553173849040825
+      "kap\u0142anka atak_19": -8215285309246666833
+      "kap\u0142anka atak_2": 3386018782197030197
+      "kap\u0142anka atak_20": 5528268884247468990
+      "kap\u0142anka atak_21": -6245958958928365206
+      "kap\u0142anka atak_22": 4275156654102075289
+      "kap\u0142anka atak_23": 2166925659386644828
+      "kap\u0142anka atak_24": 8263494354787523480
+      "kap\u0142anka atak_25": 1928466331162359565
+      "kap\u0142anka atak_26": 2225594337227755400
+      "kap\u0142anka atak_27": -679595373541981944
+      "kap\u0142anka atak_28": 7700302734916437079
+      "kap\u0142anka atak_29": -3987658540730974051
+      "kap\u0142anka atak_3": 6971875498290648839
+      "kap\u0142anka atak_30": -3367848910291917596
+      "kap\u0142anka atak_31": -3062252093188998852
+      "kap\u0142anka atak_32": 7024083643790202829
+      "kap\u0142anka atak_33": -296560930073050480
+      "kap\u0142anka atak_34": 8834572286099971058
+      "kap\u0142anka atak_35": 1583605796263455860
+      "kap\u0142anka atak_36": 8631426826207054620
+      "kap\u0142anka atak_37": 6389017414467365311
+      "kap\u0142anka atak_38": 1603766423868268680
+      "kap\u0142anka atak_39": -1719955130902000158
+      "kap\u0142anka atak_4": 8348298648927116410
+      "kap\u0142anka atak_40": -4358848900434471980
+      "kap\u0142anka atak_41": 3573313392219844294
+      "kap\u0142anka atak_42": -1982303593333751503
+      "kap\u0142anka atak_43": 4955592261897193409
+      "kap\u0142anka atak_44": -2204655052224962566
+      "kap\u0142anka atak_5": -6672883998793212033
+      "kap\u0142anka atak_6": 353430618298234217
+      "kap\u0142anka atak_7": 4493806738020911361
+      "kap\u0142anka atak_8": -5400178148369057291
+      "kap\u0142anka atak_9": -9177655731594051055
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

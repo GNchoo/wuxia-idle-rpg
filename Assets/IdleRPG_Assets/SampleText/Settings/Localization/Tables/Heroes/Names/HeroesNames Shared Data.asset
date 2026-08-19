@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HeroesNames Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HeroesNames
+  m_TableCollectionNameGuidString: 73791b287648da745a6fe98e1b9e466b
+  m_Entries:
+  - m_Id: 435925893120
+    m_Key: levitating-brain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058944
+    m_Key: grffin-rider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058945
+    m_Key: flying-machine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058946
+    m_Key: eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058947
+    m_Key: glider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058948
+    m_Key: leonardos-flying-machine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058949
+    m_Key: flaming-skull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058950
+    m_Key: pegasus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058951
+    m_Key: bounty-hunter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058952
+    m_Key: assassin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058953
+    m_Key: forest-nymph
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058954
+    m_Key: wood-elf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058955
+    m_Key: dark-demon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058956
+    m_Key: raccoon-ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058957
+    m_Key: fire-slime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058958
+    m_Key: veteran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058959
+    m_Key: cat-girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058960
+    m_Key: grizzly-bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058961
+    m_Key: snake-sorcerer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058962
+    m_Key: dark-occultist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058963
+    m_Key: viking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058964
+    m_Key: fire-element
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058965
+    m_Key: scientist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253248
+    m_Key: alchemist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253249
+    m_Key: hermit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253250
+    m_Key: poisoner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253251
+    m_Key: necromancer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253252
+    m_Key: priestess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253253
+    m_Key: soul-drainer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253254
+    m_Key: the-embodiment-of-chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253255
+    m_Key: orc-warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253256
+    m_Key: high-troll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253257
+    m_Key: killer-halfling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253258
+    m_Key: knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253259
+    m_Key: death-knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253260
+    m_Key: naiad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253261
+    m_Key: pikeman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253262
+    m_Key: skeleton-warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253263
+    m_Key: ghoul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253264
+    m_Key: guardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253265
+    m_Key: cyborg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253266
+    m_Key: bone-dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253267
+    m_Key: chinese-dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253268
+    m_Key: hydra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253269
+    m_Key: golem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253270
+    m_Key: phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253271
+    m_Key: succubus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253272
+    m_Key: naga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253273
+    m_Key: demigod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253274
+    m_Key: tiger
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675332489727

@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HeroesNames_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 73791b287648da745a6fe98e1b9e466b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 435925893120
+    m_Localized: "Lewituj\u0105cy M\xF3zg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058944
+    m_Localized: "Je\u017Adziec Gryfa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058945
+    m_Localized: "Maszyna Lataj\u0105ca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058946
+    m_Localized: "Orze\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058947
+    m_Localized: Szybowiec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058948
+    m_Localized: "Lataj\u0105ca Maszyna Leonarda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058949
+    m_Localized: "P\u0142on\u0105ca Czaszka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058950
+    m_Localized: Pegaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058951
+    m_Localized: "\u0141owca Nagr\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058952
+    m_Localized: Morderca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058953
+    m_Localized: "Le\u015Bna Nimfa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058954
+    m_Localized: Elf Drzewny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058955
+    m_Localized: Mroczny Demon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058956
+    m_Localized: Szop Pracz Ninja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058957
+    m_Localized: Ognisty Szlam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058958
+    m_Localized: Weteran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058959
+    m_Localized: Kobieta-kot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058960
+    m_Localized: "Nied\u017Awied\u017A Grizzly"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058961
+    m_Localized: "W\u0119\u017Cowy Czarodziej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058962
+    m_Localized: Mroczny Okultysta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058963
+    m_Localized: Wiking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058964
+    m_Localized: Element Ognia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435951058965
+    m_Localized: Naukowiec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253248
+    m_Localized: Alchemik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253249
+    m_Localized: Pustelnik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253250
+    m_Localized: Truciciel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253251
+    m_Localized: Nekromanta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253252
+    m_Localized: "Kap\u0142anka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253253
+    m_Localized: Wysysacz Dusz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253254
+    m_Localized: "Uciele\u015Bnienie Chaosu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253255
+    m_Localized: "Wojownik Ork\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253256
+    m_Localized: Wysoki Trollu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253257
+    m_Localized: "Zab\xF3jczy Halfling"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253258
+    m_Localized: Rycerz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253259
+    m_Localized: "Rycerz \u015Amierci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253260
+    m_Localized: Najada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253261
+    m_Localized: Pikinier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253262
+    m_Localized: Szkielet Wojownik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253263
+    m_Localized: Wampir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253264
+    m_Localized: Opiekun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253265
+    m_Localized: Cyborg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253266
+    m_Localized: "Ko\u015Bciany Smok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253267
+    m_Localized: "Chi\u0144ski Smok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253268
+    m_Localized: Hydra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253269
+    m_Localized: Golem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253270
+    m_Localized: Feniks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253271
+    m_Localized: Sukkub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253272
+    m_Localized: Naga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253273
+    m_Localized: Heros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435955253274
+    m_Localized: Tygrys
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

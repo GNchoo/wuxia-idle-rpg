@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b692892b869ce4cb14c475641a7590, type: 3}
+  m_Name: 7 Mage Hood
+  m_EditorClassIdentifier: 
+  LanguageReferenceOnly:
+  - ENGLISH
+  - POLISH
+  - RUSSIAN
+  ItemName:
+  - Mage Hood
+  - Mag Hood
+  - "\u041C\u0430\u0433 \u041A\u0430\u043F\u044E\u0448\u043E\u043D"
+  ItemDescription:
+  - The Magic Mask Will Hide Your Face
+  - "Magiczna Maska Ukryje Twoj\u0105 Twarz"
+  - "\u0412\u043E\u043B\u0448\u0435\u0431\u043D\u0430\u044F \u041C\u0430\u0441\u043A\u0430
+    \u0421\u043A\u0440\u043E\u0435\u0442 \u0422\u0432\u043E\u0435 \u041B\u0438\u0446\u043E"
+  ItemNameID: 7
+  itemType: 2
+  Image: {fileID: 21300000, guid: 9e2b2d1e670e2f146bf7303534f263db, type: 3}
+  ItemIDSO: 7
+  ItemCurrentCount: 0
+  ItemMaxLevelID: 0
+  ItemNextMaxLevel: 0a0000000f0000001900000028000000370000005000000078000000c800000054010000f4010000
+  ItemStatsValue: 0

@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: BossNames Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: BossNames
+  m_TableCollectionNameGuidString: cb9a997114423c242941856d5da00630
+  m_Entries:
+  - m_Id: 1159185814601728
+    m_Key: wild-dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321984
+    m_Key: bull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321985
+    m_Key: scarecrow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321986
+    m_Key: peasant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321987
+    m_Key: boar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321988
+    m_Key: rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321989
+    m_Key: noonwraith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321990
+    m_Key: giant-spider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321991
+    m_Key: dryad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185873321992
+    m_Key: leshy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516288
+    m_Key: bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516289
+    m_Key: troll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516290
+    m_Key: chort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516291
+    m_Key: goblin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516292
+    m_Key: angry-mob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516293
+    m_Key: statue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516294
+    m_Key: fire-golem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516295
+    m_Key: lava-worm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516296
+    m_Key: spark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516297
+    m_Key: lava-humanoid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516298
+    m_Key: dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516299
+    m_Key: fenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516300
+    m_Key: diablo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516301
+    m_Key: volcanic-humanoid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516302
+    m_Key: griffon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516303
+    m_Key: orc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516304
+    m_Key: wendigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516305
+    m_Key: rocky-snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516306
+    m_Key: saber-tooth-tiger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516307
+    m_Key: yeti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516308
+    m_Key: mahaha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516309
+    m_Key: icicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516310
+    m_Key: ghul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516311
+    m_Key: phantom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516312
+    m_Key: skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516313
+    m_Key: bat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516314
+    m_Key: guardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516315
+    m_Key: hedge-knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516316
+    m_Key: barbarian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516317
+    m_Key: boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516318
+    m_Key: your-alter-ego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516319
+    m_Key: dark-princess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516320
+    m_Key: slender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516321
+    m_Key: nightmare-boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516322
+    m_Key: cyborg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516323
+    m_Key: animal-mech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516324
+    m_Key: mantis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516325
+    m_Key: virus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516326
+    m_Key: biker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516327
+    m_Key: madman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516328
+    m_Key: junk-mech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516329
+    m_Key: mutant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516330
+    m_Key: scorpio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516331
+    m_Key: mummy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516332
+    m_Key: snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710592
+    m_Key: sphinx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710593
+    m_Key: shaman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710594
+    m_Key: slave-trader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710595
+    m_Key: gin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710596
+    m_Key: sobek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710597
+    m_Key: murloc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710598
+    m_Key: sentry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710599
+    m_Key: kelpie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710600
+    m_Key: sea-creature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710601
+    m_Key: pirate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710602
+    m_Key: drowned-dead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710603
+    m_Key: kraken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710604
+    m_Key: storm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710605
+    m_Key: witch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710606
+    m_Key: tooth-fairy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710607
+    m_Key: mushroom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710608
+    m_Key: unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710609
+    m_Key: hippogriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710610
+    m_Key: flying-snake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710611
+    m_Key: airship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710612
+    m_Key: demon-raven
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710613
+    m_Key: fallen-angel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516298
+    m_Key: dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185881710614
+    m_Key: hermes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159185877516317
+    m_Key: boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754272536936448
+    m_Key: boss-alt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754306582102016
+    m_Key: dragon-alt
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675409804316

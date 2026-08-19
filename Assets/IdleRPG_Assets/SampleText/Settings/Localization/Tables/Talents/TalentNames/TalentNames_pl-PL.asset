@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TalentNames_pl-PL
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: e3a04f7c4f94cf84694e1959f8385729, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 245772926976
+    m_Localized: "Obra\u017Cenia Ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287104
+    m_Localized: "Szybko\u015B\u0107 Ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287105
+    m_Localized: "Krytyczne Obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287106
+    m_Localized: "Obra\u017Cenia Ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287107
+    m_Localized: "Szybko\u015B\u0107 Ataku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287108
+    m_Localized: "Krytyczne Obra\u017Cenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287109
+    m_Localized: "Zwi\u0119kszenie Dochodu Z Walki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287110
+    m_Localized: "Wzrost Dochod\xF3w Wsi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287111
+    m_Localized: "Redukcja Koszt\xF3w Aktualizacji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287112
+    m_Localized: Uderzenie Pioruna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287113
+    m_Localized: "Deszcz Meteoryt\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287114
+    m_Localized: Lodowy Kolec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245802287115
+    m_Localized: Straszny Krzyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250825929998336
+    m_Localized: default-name
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

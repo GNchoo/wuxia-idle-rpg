@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b692892b869ce4cb14c475641a7590, type: 3}
+  m_Name: 42 Water Pistol
+  m_EditorClassIdentifier: 
+  LanguageReferenceOnly:
+  - ENGLISH
+  - POLISH
+  - RUSSIAN
+  ItemName:
+  - Water Pistol
+  - "Pistolet Na Wod\u0119"
+  - "\u0412\u043E\u0434\u044F\u043D\u043E\u0439 \u041F\u0438\u0441\u0442\u043E\u043B\u0435\u0442"
+  ItemDescription:
+  - You Will Wet All Enemies
+  - "Zmoczysz Wszystkich Wrog\xF3w"
+  - "\u0422\u044B \u041D\u0430\u043C\u043E\u0447\u0438\u0448\u044C \u0412\u0441\u0435\u0445
+    \u0412\u0440\u0430\u0433\u043E\u0432"
+  ItemNameID: 42
+  itemType: 0
+  Image: {fileID: 21300000, guid: 6a20bdb76de6a3c478e68f5eff9c1180, type: 3}
+  ItemIDSO: 42
+  ItemCurrentCount: 0
+  ItemMaxLevelID: 0
+  ItemNextMaxLevel: 0a0000000f0000001900000028000000370000005000000078000000c800000054010000f4010000
+  ItemStatsValue: 0

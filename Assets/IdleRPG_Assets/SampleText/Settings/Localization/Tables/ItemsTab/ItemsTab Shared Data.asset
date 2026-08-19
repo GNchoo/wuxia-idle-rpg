@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ItemsTab Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ItemsTab
+  m_TableCollectionNameGuidString: ded10dfeef799984dabeba665171dc1c
+  m_Entries:
+  - m_Id: 7788118016
+    m_Key: boosts-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10988371968
+    m_Key: items-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13098106880
+    m_Key: buy-gem-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357704279343104
+    m_Key: chests-label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357815524868096
+    m_Key: artifacts-label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357851256143872
+    m_Key: gems-label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357960903639040
+    m_Key: daily-bundle-label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8357988871258112
+    m_Key: free-gift-label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8358032563322880
+    m_Key: boosters-label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12324760804737024
+    m_Key: hero-unlock-popup-label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12325020084027392
+    m_Key: hero-unlock-popup-next-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12325030238437376
+    m_Key: hero-unlock-popup-close-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12326601907060736
+    m_Key: gem-cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12326773319876608
+    m_Key: free-cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13364485967659008
+    m_Key: reward-video-collected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13364545711325184
+    m_Key: reward-video-not-collected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27181971221594112
+    m_Key: buy-button-bought
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35478482158174208
+    m_Key: vip-benifits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35479067192279040
+    m_Key: next-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35479084208570368
+    m_Key: 'previous-button
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52571201284161536
+    m_Key: gems-name
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675247059804
