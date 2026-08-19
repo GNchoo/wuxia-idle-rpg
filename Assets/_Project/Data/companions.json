@@ -1,0 +1,20 @@
+{
+  "companions": [
+    { "id": "c_warrior", "name": "무사 동료", "role": "tank", "passiveAtkPct": 2, "passiveHpPct": 4, "passiveGoldPct": 0 },
+    { "id": "c_mage", "name": "도사 동료", "role": "dps", "passiveAtkPct": 4, "passiveHpPct": 0, "passiveGoldPct": 1 },
+    { "id": "c_archer", "name": "궁사 동료", "role": "dps", "passiveAtkPct": 3.5, "passiveHpPct": 1, "passiveGoldPct": 0 },
+    { "id": "c_thief", "name": "살수 동료", "role": "dps", "passiveAtkPct": 3, "passiveHpPct": 0, "passiveGoldPct": 2 },
+    { "id": "c_paladin", "name": "호법 동료", "role": "tank", "passiveAtkPct": 1, "passiveHpPct": 5, "passiveGoldPct": 0 },
+    { "id": "c_dk", "name": "혈귀 동료", "role": "tank", "passiveAtkPct": 2.5, "passiveHpPct": 3, "passiveGoldPct": 0 },
+    { "id": "c_fp", "name": "화공술사 동료", "role": "dps", "passiveAtkPct": 4.5, "passiveHpPct": 0, "passiveGoldPct": 0 },
+    { "id": "c_il", "name": "빙공술사 동료", "role": "support", "passiveAtkPct": 1.5, "passiveHpPct": 2, "passiveGoldPct": 2 },
+    { "id": "c_priest", "name": "약사 동료", "role": "support", "passiveAtkPct": 1, "passiveHpPct": 3, "passiveGoldPct": 1 },
+    { "id": "c_ranger", "name": "포쾌 동료", "role": "dps", "passiveAtkPct": 3.2, "passiveHpPct": 1, "passiveGoldPct": 1 },
+    { "id": "c_berserker", "name": "광전사 동료", "role": "dps", "passiveAtkPct": 5, "passiveHpPct": -1, "passiveGoldPct": 0 },
+    { "id": "c_shaman", "name": "무당 동료", "role": "support", "passiveAtkPct": 2, "passiveHpPct": 1, "passiveGoldPct": 3 },
+    { "id": "c_ninja", "name": "자객 동료", "role": "dps", "passiveAtkPct": 4, "passiveHpPct": 0, "passiveGoldPct": 1 },
+    { "id": "c_guardian", "name": "수문장 동료", "role": "tank", "passiveAtkPct": 0.5, "passiveHpPct": 6, "passiveGoldPct": 0 },
+    { "id": "c_alchemist", "name": "단약사 동료", "role": "support", "passiveAtkPct": 1, "passiveHpPct": 2, "passiveGoldPct": 4 },
+    { "id": "c_dragonkin", "name": "용린족 동료", "role": "dps", "passiveAtkPct": 5.5, "passiveHpPct": 2, "passiveGoldPct": 0 }
+  ]
+}

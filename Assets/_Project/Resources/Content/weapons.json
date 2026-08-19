@@ -1,0 +1,214 @@
+{
+ "weapons": [
+  {
+   "id": "w_wood_sword",
+   "name": "목검",
+   "kind": 0,
+   "baseAtk": 4,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_steel_sword",
+   "name": "철검",
+   "kind": 0,
+   "baseAtk": 8,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_mythril_blade",
+   "name": "청강검",
+   "kind": 0,
+   "baseAtk": 14,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_dragon_blade",
+   "name": "송문고정검",
+   "kind": 0,
+   "baseAtk": 22,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_crimson_saber",
+   "name": "한철검",
+   "kind": 0,
+   "baseAtk": 18,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_knight_claymore",
+   "name": "현철중검",
+   "kind": 0,
+   "baseAtk": 16,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_oak_staff",
+   "name": "유엽도",
+   "kind": 1,
+   "baseAtk": 5,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_flame_staff",
+   "name": "안령도",
+   "kind": 1,
+   "baseAtk": 10,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_frost_staff",
+   "name": "우미도",
+   "kind": 1,
+   "baseAtk": 12,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_arcane_staff",
+   "name": "묘도",
+   "kind": 1,
+   "baseAtk": 20,
+   "setId": "set_river"
+  },
+  {
+   "id": "w_thunder_rod",
+   "name": "박도",
+   "kind": 1,
+   "baseAtk": 15,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_void_wand",
+   "name": "현철귀두도",
+   "kind": 1,
+   "baseAtk": 24,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_hunter_bow",
+   "name": "백랍곤",
+   "kind": 2,
+   "baseAtk": 6,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_maple_bow",
+   "name": "죽창",
+   "kind": 2,
+   "baseAtk": 11,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_storm_bow",
+   "name": "화창",
+   "kind": 2,
+   "baseAtk": 17,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_phoenix_bow",
+   "name": "대창",
+   "kind": 2,
+   "baseAtk": 23,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_composite_bow",
+   "name": "편곤",
+   "kind": 2,
+   "baseAtk": 14,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_sniper_bow",
+   "name": "월아산",
+   "kind": 2,
+   "baseAtk": 19,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_bronze_claw",
+   "name": "판관필",
+   "kind": 3,
+   "baseAtk": 5,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_shadow_claw",
+   "name": "아미자",
+   "kind": 3,
+   "baseAtk": 12,
+   "setId": "set_frost"
+  },
+  {
+   "id": "w_venom_claw",
+   "name": "철선",
+   "kind": 3,
+   "baseAtk": 16,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_assassin_claw",
+   "name": "호두구",
+   "kind": 3,
+   "baseAtk": 21,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_iron_knuckle",
+   "name": "자오원앙월",
+   "kind": 3,
+   "baseAtk": 9,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_blood_fist",
+   "name": "구절편",
+   "kind": 3,
+   "baseAtk": 25,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_gauntlet_cloth",
+   "name": "무명 수갑",
+   "kind": 4,
+   "baseAtk": 4,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_gauntlet_leather",
+   "name": "가죽 호수",
+   "kind": 4,
+   "baseAtk": 9,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_gauntlet_iron",
+   "name": "철 권갑",
+   "kind": 4,
+   "baseAtk": 13,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_gauntlet_steel",
+   "name": "정강 권갑",
+   "kind": 4,
+   "baseAtk": 19,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_gauntlet_cold",
+   "name": "한철 권갑",
+   "kind": 4,
+   "baseAtk": 22,
+   "setId": "set_demon"
+  },
+  {
+   "id": "w_gauntlet_dark",
+   "name": "현철 권갑",
+   "kind": 4,
+   "baseAtk": 26,
+   "setId": "set_demon"
+  }
+ ]
+}

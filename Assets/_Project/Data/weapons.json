@@ -1,0 +1,28 @@
+{
+  "weapons": [
+    { "id": "w_wood_sword", "name": "목검", "kind": 0, "baseAtk": 4, "setId": "" },
+    { "id": "w_steel_sword", "name": "철검", "kind": 0, "baseAtk": 8, "setId": "" },
+    { "id": "w_mythril_blade", "name": "현철검", "kind": 0, "baseAtk": 14, "setId": "blade" },
+    { "id": "w_dragon_blade", "name": "용천검", "kind": 0, "baseAtk": 22, "setId": "blade" },
+    { "id": "w_crimson_saber", "name": "홍련도", "kind": 0, "baseAtk": 18, "setId": "" },
+    { "id": "w_knight_claymore", "name": "패왕대검", "kind": 0, "baseAtk": 16, "setId": "" },
+    { "id": "w_oak_staff", "name": "고목선장", "kind": 1, "baseAtk": 5, "setId": "" },
+    { "id": "w_flame_staff", "name": "화염마장", "kind": 1, "baseAtk": 10, "setId": "arcane" },
+    { "id": "w_frost_staff", "name": "한빙마장", "kind": 1, "baseAtk": 12, "setId": "arcane" },
+    { "id": "w_arcane_staff", "name": "천마지", "kind": 1, "baseAtk": 20, "setId": "arcane" },
+    { "id": "w_thunder_rod", "name": "뇌전마장", "kind": 1, "baseAtk": 15, "setId": "" },
+    { "id": "w_void_wand", "name": "심연의 마지", "kind": 1, "baseAtk": 24, "setId": "" },
+    { "id": "w_hunter_bow", "name": "사냥꾼의 궁", "kind": 2, "baseAtk": 6, "setId": "" },
+    { "id": "w_maple_bow", "name": "녹림궁", "kind": 2, "baseAtk": 11, "setId": "ranger" },
+    { "id": "w_storm_bow", "name": "질풍궁", "kind": 2, "baseAtk": 17, "setId": "ranger" },
+    { "id": "w_phoenix_bow", "name": "봉황궁", "kind": 2, "baseAtk": 23, "setId": "ranger" },
+    { "id": "w_composite_bow", "name": "합성궁", "kind": 2, "baseAtk": 14, "setId": "" },
+    { "id": "w_sniper_bow", "name": "독사궁", "kind": 2, "baseAtk": 19, "setId": "" },
+    { "id": "w_bronze_claw", "name": "청동 권갑", "kind": 3, "baseAtk": 5, "setId": "" },
+    { "id": "w_shadow_claw", "name": "암영 권갑", "kind": 3, "baseAtk": 12, "setId": "shadow" },
+    { "id": "w_venom_claw", "name": "독아 권갑", "kind": 3, "baseAtk": 16, "setId": "shadow" },
+    { "id": "w_assassin_claw", "name": "암살 권갑", "kind": 3, "baseAtk": 21, "setId": "shadow" },
+    { "id": "w_iron_knuckle", "name": "철권", "kind": 3, "baseAtk": 9, "setId": "" },
+    { "id": "w_blood_fist", "name": "혈마권", "kind": 3, "baseAtk": 25, "setId": "" }
+  ]
+}

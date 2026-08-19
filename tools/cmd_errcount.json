@@ -1,0 +1,1 @@
+{"type":"execute_code","params":{"action":"execute","code":"int total = 0; var flags = System.Enum.GetValues(typeof(UnityEditor.MessageType)); return \"compile_ok_no_api_for_console\";"}}

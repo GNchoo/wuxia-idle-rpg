@@ -1,0 +1,850 @@
+{
+ "styleIcon": "wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow",
+ "styleWear": "side view profile, each weapon standing perfectly vertical and upright, wide empty spacing between weapons so they never touch or overlap. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow). Bold chunky readable silhouette designed to be legible at 150 pixels tall, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no hand, no ground shadow",
+ "items": [
+  {
+   "id": "sheet_icon_s0_0",
+   "name": "부위0 아이콘 T1-5",
+   "kind": "icon",
+   "slot": 0,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "targets": [
+    "eq_w01",
+    "eq_w02",
+    "eq_w03",
+    "eq_w04",
+    "eq_w05"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a Chinese jian straight double-edged sword with small winged guard and a silk tassel on the pommel, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) crude wood or bamboo, worn, 2) plain dark iron, rough forged, 3) polished steel, clean, 4) refined steel with blue sheen, 5) folded pattern-welded steel, damascus-like grain. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s0_1",
+   "name": "부위0 아이콘 T6-10",
+   "kind": "icon",
+   "slot": 0,
+   "tiers": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "targets": [
+    "eq_w06",
+    "eq_w07",
+    "eq_w08",
+    "eq_w09",
+    "eq_w10"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a Chinese jian straight double-edged sword with small winged guard and a silk tassel on the pommel, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) pale icy blue-white 'cold iron', frost sheen, 2) black lustrous 'dark iron', heavy, 3) dark purple-black metal with gold reflections, 4) meteorite iron, faint starlight speckles, 5) divine artifact, glowing engraved runes, radiant aura. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s1_0",
+   "name": "부위1 아이콘 T1-5",
+   "kind": "icon",
+   "slot": 1,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "targets": [
+    "eq_h01",
+    "eq_h02",
+    "eq_h03",
+    "eq_h04",
+    "eq_h05"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a traditional Chinese scholar headwear / hair crown (guan) or cloth headband, oriental, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) crude wood or bamboo, worn, 2) plain dark iron, rough forged, 3) polished steel, clean, 4) refined steel with blue sheen, 5) folded pattern-welded steel, damascus-like grain. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s1_1",
+   "name": "부위1 아이콘 T6-10",
+   "kind": "icon",
+   "slot": 1,
+   "tiers": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "targets": [
+    "eq_h06",
+    "eq_h07",
+    "eq_h08",
+    "eq_h09",
+    "eq_h10"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a traditional Chinese scholar headwear / hair crown (guan) or cloth headband, oriental, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) pale icy blue-white 'cold iron', frost sheen, 2) black lustrous 'dark iron', heavy, 3) dark purple-black metal with gold reflections, 4) meteorite iron, faint starlight speckles, 5) divine artifact, glowing engraved runes, radiant aura. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s2_0",
+   "name": "부위2 아이콘 T1-5",
+   "kind": "icon",
+   "slot": 2,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "targets": [
+    "eq_a01",
+    "eq_a02",
+    "eq_a03",
+    "eq_a04",
+    "eq_a05"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a Chinese martial arts robe / changshan upper garment, oriental, flat laid out, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) crude wood or bamboo, worn, 2) plain dark iron, rough forged, 3) polished steel, clean, 4) refined steel with blue sheen, 5) folded pattern-welded steel, damascus-like grain. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s2_1",
+   "name": "부위2 아이콘 T6-10",
+   "kind": "icon",
+   "slot": 2,
+   "tiers": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "targets": [
+    "eq_a06",
+    "eq_a07",
+    "eq_a08",
+    "eq_a09",
+    "eq_a10"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a Chinese martial arts robe / changshan upper garment, oriental, flat laid out, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) pale icy blue-white 'cold iron', frost sheen, 2) black lustrous 'dark iron', heavy, 3) dark purple-black metal with gold reflections, 4) meteorite iron, faint starlight speckles, 5) divine artifact, glowing engraved runes, radiant aura. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s3_0",
+   "name": "부위3 아이콘 T1-5",
+   "kind": "icon",
+   "slot": 3,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "targets": [
+    "eq_c01",
+    "eq_c02",
+    "eq_c03",
+    "eq_c04",
+    "eq_c05"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a Chinese jade waist pendant / token plaque (paegwan), oriental ornament, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) crude wood or bamboo, worn, 2) plain dark iron, rough forged, 3) polished steel, clean, 4) refined steel with blue sheen, 5) folded pattern-welded steel, damascus-like grain. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s3_1",
+   "name": "부위3 아이콘 T6-10",
+   "kind": "icon",
+   "slot": 3,
+   "tiers": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "targets": [
+    "eq_c06",
+    "eq_c07",
+    "eq_c08",
+    "eq_c09",
+    "eq_c10"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate a Chinese jade waist pendant / token plaque (paegwan), oriental ornament, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) pale icy blue-white 'cold iron', frost sheen, 2) black lustrous 'dark iron', heavy, 3) dark purple-black metal with gold reflections, 4) meteorite iron, faint starlight speckles, 5) divine artifact, glowing engraved runes, radiant aura. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s4_0",
+   "name": "부위4 아이콘 T1-5",
+   "kind": "icon",
+   "slot": 4,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "targets": [
+    "eq_p01",
+    "eq_p02",
+    "eq_p03",
+    "eq_p04",
+    "eq_p05"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate Chinese martial arts trousers with leg wraps, oriental, flat laid out, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) crude wood or bamboo, worn, 2) plain dark iron, rough forged, 3) polished steel, clean, 4) refined steel with blue sheen, 5) folded pattern-welded steel, damascus-like grain. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s4_1",
+   "name": "부위4 아이콘 T6-10",
+   "kind": "icon",
+   "slot": 4,
+   "tiers": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "targets": [
+    "eq_p06",
+    "eq_p07",
+    "eq_p08",
+    "eq_p09",
+    "eq_p10"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate Chinese martial arts trousers with leg wraps, oriental, flat laid out, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) pale icy blue-white 'cold iron', frost sheen, 2) black lustrous 'dark iron', heavy, 3) dark purple-black metal with gold reflections, 4) meteorite iron, faint starlight speckles, 5) divine artifact, glowing engraved runes, radiant aura. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s5_0",
+   "name": "부위5 아이콘 T1-5",
+   "kind": "icon",
+   "slot": 5,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "targets": [
+    "eq_s01",
+    "eq_s02",
+    "eq_s03",
+    "eq_s04",
+    "eq_s05"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate Chinese cloth-soled martial arts boots (bu xie), oriental, a pair, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) crude wood or bamboo, worn, 2) plain dark iron, rough forged, 3) polished steel, clean, 4) refined steel with blue sheen, 5) folded pattern-welded steel, damascus-like grain. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_icon_s5_1",
+   "name": "부위5 아이콘 T6-10",
+   "kind": "icon",
+   "slot": 5,
+   "tiers": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "targets": [
+    "eq_s06",
+    "eq_s07",
+    "eq_s08",
+    "eq_s09",
+    "eq_s10"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate Chinese cloth-soled martial arts boots (bu xie), oriental, a pair, evenly spaced with clear gaps, all the same size and orientation, left to right showing quality progression: 1) pale icy blue-white 'cold iron', frost sheen, 2) black lustrous 'dark iron', heavy, 3) dark purple-black metal with gold reflections, 4) meteorite iron, faint starlight speckles, 5) divine artifact, glowing engraved runes, radiant aura. wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette, the whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_wear_k0",
+   "name": "착용 무기 종류0",
+   "kind": "wear",
+   "slot": 0,
+   "targets": [
+    "w_wood_sword",
+    "w_steel_sword",
+    "w_mythril_blade",
+    "w_dragon_blade",
+    "w_crimson_saber",
+    "w_knight_claymore"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate Chinese wuxia straight double-edged jian swords showing tier progression, left to right: 1) rough unadorned straight double-edged jian sword made of plain worn wood with a simple cloth-wrapped grip, dull and humble, a beginner's practice weapon, 2) cleanly forged polished steel straight double-edged jian sword with simple bronze fittings and a leather-wrapped grip, functional soldier grade, 3) master-smith straight double-edged jian sword with fine engraved wave patterns on the blade, a silk-wrapped grip and one small round jade accent on the guard, elegant craftsmanship, 4) precious dark-iron straight double-edged jian sword with gold inlay lines, a fierce tiger-head shaped guard and a red tassel hanging from the pommel, imposing and ornate, 5) divine-forged straight double-edged jian sword covered in intricate silver dragon engravings with jade gemstones set into the guard, thin teal glowing energy lines running along the blade, mystical masterwork, 6) legendary radiant straight double-edged jian sword with a golden dragon coiled around the hilt, crimson and jade three-color scheme, the whole blade shimmering with a bright golden glow and small floating light particles, supreme divine relic. ALL SIX in the exact SAME art style so they clearly belong to one game: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around every silhouette and interior part, flat cel shading with two or three solid tones per material, hard edges, no gradients except the tier 5 and 6 glow accents, no photorealism. each weapon standing perfectly vertical tip up, evenly spaced in one horizontal row with WIDE clear gaps so they never touch or overlap, all the same height. left to right the six weapons show a clear quality progression from humble to legendary. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character"
+  },
+  {
+   "id": "sheet_wear_k1",
+   "name": "착용 무기 종류1",
+   "kind": "wear",
+   "slot": 1,
+   "targets": [
+    "w_oak_staff",
+    "w_flame_staff",
+    "w_frost_staff",
+    "w_arcane_staff",
+    "w_thunder_rod",
+    "w_void_wand"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate Chinese wuxia curved single-edged dao sabers showing tier progression, left to right: 1) rough unadorned curved single-edged dao saber made of plain worn wood with a simple cloth-wrapped grip, dull and humble, a beginner's practice weapon, 2) cleanly forged polished steel curved single-edged dao saber with simple bronze fittings and a leather-wrapped grip, functional soldier grade, 3) master-smith curved single-edged dao saber with fine engraved wave patterns on the blade, a silk-wrapped grip and one small round jade accent on the guard, elegant craftsmanship, 4) precious dark-iron curved single-edged dao saber with gold inlay lines, a fierce tiger-head shaped guard and a red tassel hanging from the pommel, imposing and ornate, 5) divine-forged curved single-edged dao saber covered in intricate silver dragon engravings with jade gemstones set into the guard, thin teal glowing energy lines running along the blade, mystical masterwork, 6) legendary radiant curved single-edged dao saber with a golden dragon coiled around the hilt, crimson and jade three-color scheme, the whole blade shimmering with a bright golden glow and small floating light particles, supreme divine relic. ALL SIX in the exact SAME art style so they clearly belong to one game: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around every silhouette and interior part, flat cel shading with two or three solid tones per material, hard edges, no gradients except the tier 5 and 6 glow accents, no photorealism. each weapon standing perfectly vertical tip up, evenly spaced in one horizontal row with WIDE clear gaps so they never touch or overlap, all the same height. left to right the six weapons show a clear quality progression from humble to legendary. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character"
+  },
+  {
+   "id": "sheet_wear_k2",
+   "name": "착용 무기 종류2",
+   "kind": "wear",
+   "slot": 2,
+   "targets": [
+    "w_hunter_bow",
+    "w_maple_bow",
+    "w_storm_bow",
+    "w_phoenix_bow",
+    "w_composite_bow",
+    "w_sniper_bow"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate Chinese wuxia long spear with a leaf-shaped heads showing tier progression, left to right: 1) rough unadorned long spear with a leaf-shaped head made of plain worn wood with a simple cloth-wrapped grip, dull and humble, a beginner's practice weapon, 2) cleanly forged polished steel long spear with a leaf-shaped head with simple bronze fittings and a leather-wrapped grip, functional soldier grade, 3) master-smith long spear with a leaf-shaped head with fine engraved wave patterns on the blade, a silk-wrapped grip and one small round jade accent on the guard, elegant craftsmanship, 4) precious dark-iron long spear with a leaf-shaped head with gold inlay lines, a fierce tiger-head shaped guard and a red tassel hanging from the pommel, imposing and ornate, 5) divine-forged long spear with a leaf-shaped head covered in intricate silver dragon engravings with jade gemstones set into the guard, thin teal glowing energy lines running along the blade, mystical masterwork, 6) legendary radiant long spear with a leaf-shaped head with a golden dragon coiled around the hilt, crimson and jade three-color scheme, the whole blade shimmering with a bright golden glow and small floating light particles, supreme divine relic. ALL SIX in the exact SAME art style so they clearly belong to one game: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around every silhouette and interior part, flat cel shading with two or three solid tones per material, hard edges, no gradients except the tier 5 and 6 glow accents, no photorealism. each weapon standing perfectly vertical tip up, evenly spaced in one horizontal row with WIDE clear gaps so they never touch or overlap, all the same height. left to right the six weapons show a clear quality progression from humble to legendary. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character"
+  },
+  {
+   "id": "sheet_wear_k3",
+   "name": "착용 무기 종류3",
+   "kind": "wear",
+   "slot": 3,
+   "targets": [
+    "w_bronze_claw",
+    "w_shadow_claw",
+    "w_venom_claw",
+    "w_assassin_claw",
+    "w_iron_knuckle",
+    "w_blood_fist"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate Chinese wuxia short daggers showing tier progression, left to right: 1) rough unadorned short dagger made of plain worn wood with a simple cloth-wrapped grip, dull and humble, a beginner's practice weapon, 2) cleanly forged polished steel short dagger with simple bronze fittings and a leather-wrapped grip, functional soldier grade, 3) master-smith short dagger with fine engraved wave patterns on the blade, a silk-wrapped grip and one small round jade accent on the guard, elegant craftsmanship, 4) precious dark-iron short dagger with gold inlay lines, a fierce tiger-head shaped guard and a red tassel hanging from the pommel, imposing and ornate, 5) divine-forged short dagger covered in intricate silver dragon engravings with jade gemstones set into the guard, thin teal glowing energy lines running along the blade, mystical masterwork, 6) legendary radiant short dagger with a golden dragon coiled around the hilt, crimson and jade three-color scheme, the whole blade shimmering with a bright golden glow and small floating light particles, supreme divine relic. ALL SIX in the exact SAME art style so they clearly belong to one game: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around every silhouette and interior part, flat cel shading with two or three solid tones per material, hard edges, no gradients except the tier 5 and 6 glow accents, no photorealism. each weapon standing perfectly vertical tip up, evenly spaced in one horizontal row with WIDE clear gaps so they never touch or overlap, all the same height. left to right the six weapons show a clear quality progression from humble to legendary. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character"
+  },
+  {
+   "id": "sheet_wear_k4",
+   "name": "kind4 gauntlet wear",
+   "kind": "wear",
+   "slot": -1,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "targets": [
+    "w_gauntlet_cloth",
+    "w_gauntlet_leather",
+    "w_gauntlet_iron",
+    "w_gauntlet_steel",
+    "w_gauntlet_cold",
+    "w_gauntlet_dark"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate Chinese wuxia fist gauntlet worn on a hands showing tier progression, left to right: 1) rough unadorned fist gauntlet worn on a hand made of plain worn wood with a simple cloth-wrapped grip, dull and humble, a beginner's practice weapon, 2) cleanly forged polished steel fist gauntlet worn on a hand with simple bronze fittings and a leather-wrapped grip, functional soldier grade, 3) master-smith fist gauntlet worn on a hand with fine engraved wave patterns on the blade, a silk-wrapped grip and one small round jade accent on the guard, elegant craftsmanship, 4) precious dark-iron fist gauntlet worn on a hand with gold inlay lines, a fierce tiger-head shaped guard and a red tassel hanging from the pommel, imposing and ornate, 5) divine-forged fist gauntlet worn on a hand covered in intricate silver dragon engravings with jade gemstones set into the guard, thin teal glowing energy lines running along the blade, mystical masterwork, 6) legendary radiant fist gauntlet worn on a hand with a golden dragon coiled around the hilt, crimson and jade three-color scheme, the whole blade shimmering with a bright golden glow and small floating light particles, supreme divine relic. ALL SIX in the exact SAME art style so they clearly belong to one game: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around every silhouette and interior part, flat cel shading with two or three solid tones per material, hard edges, no gradients except the tier 5 and 6 glow accents, no photorealism. each weapon standing perfectly vertical tip up, evenly spaced in one horizontal row with WIDE clear gaps so they never touch or overlap, all the same height. left to right the six weapons show a clear quality progression from humble to legendary. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character"
+  },
+  {
+   "id": "sheet_armor_hat",
+   "name": "투구/관 6티어 (착용용)",
+   "kind": "armor",
+   "slot": 1,
+   "tiers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "targets": [
+    "hat_t1",
+    "hat_t2",
+    "hat_t3",
+    "hat_t4",
+    "hat_t5",
+    "hat_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate Chinese wuxia headwear worn on the head, empty with no head or face inside, seen from the SIDE facing LEFT, evenly spaced with clear gaps, all the same size and same orientation, left to right showing quality progression: 1) plain cloth headband, 2) simple dark cloth cap, 3) bamboo conical hat, 4) scholar cloth cap with side flaps, 5) taoist crown with a hairpin, 6) ornate lacquered crown with a jade ornament. side view profile, each weapon standing perfectly vertical and upright, wide empty spacing between weapons so they never touch or overlap. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow). Bold chunky readable silhouette designed to be legible at 150 pixels tall, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no hand, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_body",
+   "name": "몸통 갑옷 6티어",
+   "kind": "armor",
+   "targets": [
+    "armor_t1",
+    "armor_t2",
+    "armor_t3",
+    "armor_t4",
+    "armor_t5",
+    "armor_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate Chinese wuxia sleeveless torso garment pieces that cover only the chest and waist, empty with no body inside, with NO sleeves and NO arms and NO shoulders, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) plain hemp vest, 2) cotton robe front with a cross collar, 3) padded cloth jerkin tied with a sash, 4) leather lamellar chest guard, 5) iron scale chest armor with a round mirror plate, 6) ornate lacquered breastplate with a dragon emblem. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 76 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_shoulder",
+   "name": "어깨 견갑 6티어",
+   "kind": "armor",
+   "targets": [
+    "shoulder_t1",
+    "shoulder_t2",
+    "shoulder_t3",
+    "shoulder_t4",
+    "shoulder_t5",
+    "shoulder_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate single shoulder pads for ONE shoulder of a Chinese wuxia warrior, empty with no body inside, no arm, no chest, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) plain cloth shoulder wrap, 2) leather shoulder strap, 3) studded leather pauldron, 4) iron plate pauldron, 5) layered lamellar pauldron with a tassel, 6) ornate spiked pauldron with a jade stud. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 40 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_glove",
+   "name": "손 보호대 6티어",
+   "kind": "armor",
+   "targets": [
+    "glove_t1",
+    "glove_t2",
+    "glove_t3",
+    "glove_t4",
+    "glove_t5",
+    "glove_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate hand guards worn on the back of ONE hand of a Chinese wuxia warrior, empty with no hand inside, no fingers drawn, no arm, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) cloth wrist wrap, 2) leather hand guard, 3) studded leather bracer, 4) iron hand plate, 5) lamellar gauntlet, 6) ornate gauntlet with a jade ring. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 38 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_shoes",
+   "name": "신발 6티어",
+   "kind": "armor",
+   "targets": [
+    "shoes_t1",
+    "shoes_t2",
+    "shoes_t3",
+    "shoes_t4",
+    "shoes_t5",
+    "shoes_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate single shoes for ONE foot of a Chinese wuxia warrior, empty with no foot inside, no leg, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) woven straw sandal, 2) plain cloth shoe, 3) leather ankle boot, 4) studded travel boot, 5) armored war boot with an iron toe cap, 6) ornate lacquered boot with gold trim. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 36 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_belt",
+   "name": "허리띠 6티어",
+   "kind": "armor",
+   "targets": [
+    "belt_t1",
+    "belt_t2",
+    "belt_t3",
+    "belt_t4",
+    "belt_t5",
+    "belt_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate waist belts and sashes of a Chinese wuxia warrior, laid flat, empty with no body inside, no legs, no torso, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) plain twisted rope belt, 2) cloth sash tied in a knot, 3) leather belt with an iron buckle, 4) wide belt with a hanging jade pendant, 5) armored waist plate with hanging tassels, 6) ornate golden belt with a dragon buckle. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 60 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_neck",
+   "name": "목가리개 6티어",
+   "kind": "armor",
+   "targets": [
+    "neck_t1",
+    "neck_t2",
+    "neck_t3",
+    "neck_t4",
+    "neck_t5",
+    "neck_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate neck collars and gorgets of a Chinese wuxia warrior, empty with no neck or head inside, no shoulders, no chest, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) plain cloth collar, 2) folded cross collar, 3) fur lined collar, 4) leather gorget, 5) iron neck guard, 6) ornate gorget with a jade bead. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 52 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_sleeve",
+   "name": "소매 6티어",
+   "kind": "armor",
+   "targets": [
+    "sleeve_t1",
+    "sleeve_t2",
+    "sleeve_t3",
+    "sleeve_t4",
+    "sleeve_t5",
+    "sleeve_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate short sleeve tubes covering ONE upper arm of a Chinese wuxia warrior, empty with no arm inside, no hand, no shoulder pad, no torso, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) plain hemp sleeve, 2) cotton sleeve with a cuff, 3) padded cloth sleeve, 4) leather arm guard, 5) lamellar arm armor, 6) ornate armored sleeve with gold trim. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 43 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_pants",
+   "name": "바지 허리 6티어",
+   "kind": "armor",
+   "targets": [
+    "pants_t1",
+    "pants_t2",
+    "pants_t3",
+    "pants_t4",
+    "pants_t5",
+    "pants_t6"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate short wide waist bands that cover ONLY the hips of a Chinese wuxia warrior, empty with no body inside, no legs, no feet, much wider than tall, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) plain hemp waistcloth, 2) cotton trouser top, 3) padded hip cloth, 4) leather hip guard, 5) lamellar tasset skirt, 6) ornate armored hip plate with gold trim. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 60 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_armor_pantsleg",
+   "name": "바지 다리 6티어",
+   "kind": "armor",
+   "targets": [
+    "pants_t1@leg",
+    "pants_t2@leg",
+    "pants_t3@leg",
+    "pants_t4@leg",
+    "pants_t5@leg",
+    "pants_t6@leg"
+   ],
+   "prompt": "a horizontal row of exactly 6 separate SHORT and CHUNKY thigh covers for ONE upper leg of a Chinese wuxia warrior, each one clearly WIDER than it is TALL (about 6 wide to 5 tall), covering only the upper thigh and stopping above the knee, empty with no leg inside, no foot, no shoe, no hip, no waist, chunky stubby chibi proportions not realistic slim legs, seen from the SIDE facing LEFT, evenly spaced with wide clear gaps so they never touch or overlap, all the same size and same orientation, left to right showing quality progression: 1) plain hemp trouser leg, 2) cotton trouser leg, 3) padded cloth leg wrap, 4) leather leg guard, 5) lamellar greave, 6) ornate armored greave with gold trim. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with a VERY thick uniform pure black outline around the whole silhouette and around every interior part, flat cel shading using only two or three solid tones per material with hard edges, absolutely no gradients, no texture detail, no rendering, no painterly brushwork, no metallic reflections, no glow, no special effects. Muted desaturated palette: warm medium brown wood (#886633), grey-green steel (#7D8686 with #51544F shadow), muted hemp and cotton cloth tones. Bold chunky readable silhouette designed to be legible at 36 pixels, like a low resolution mobile RPG equipment sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no body, no head, no face, no hands, no feet, no ground shadow"
+  },
+  {
+   "id": "sheet_skill_hero_a",
+   "name": "스킬아이콘 hero 0",
+   "kind": "skill",
+   "targets": [
+    "sk_hero_0",
+    "sk_hero_1",
+    "sk_hero_2",
+    "sk_hero_3"
+   ],
+   "prompt": "square wuxia martial-arts SKILL icon for a mobile RPG, painted energy burst or symbolic motif centered in frame, bold readable at 72px, clean rich shading, no character faces, no hands, no text, no border, no UI frame. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate square icons, evenly spaced with wide clear gaps so they never touch, all the same size. Color mood: righteous sect — white, azure blue and pale gold energy. left to right: 1) swirling taiji yin-yang circle of soft white inner energy (breathing technique), 2) plum blossom petals swirling around a sword slash arc (flower sword wave), 3) golden translucent body-shield dome of qi (indestructible body), 4) flowing water-like sword deflecting an arrow, circular parry motion (counter stance)"
+  },
+  {
+   "id": "sheet_skill_hero_b",
+   "name": "스킬아이콘 hero 4",
+   "kind": "skill",
+   "targets": [
+    "sk_hero_4",
+    "sk_hero_5",
+    "sk_hero_6",
+    "sk_hero_7"
+   ],
+   "prompt": "square wuxia martial-arts SKILL icon for a mobile RPG, painted energy burst or symbolic motif centered in frame, bold readable at 72px, clean rich shading, no character faces, no hands, no text, no border, no UI frame. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate square icons, evenly spaced with wide clear gaps so they never touch, all the same size. Color mood: righteous sect — white, azure blue and pale gold energy. left to right: 1) thousands of tiny swords raining from the sky in a fan (ultimate sword storm), 2) meditating silhouette-less lotus with rising qi wisps (inner energy study), 3) glowing meridian flow lines forming a loop (blood circulation), 4) single perfect sword standing in light beam (sword mastery)"
+  },
+  {
+   "id": "sheet_skill_bow_a",
+   "name": "스킬아이콘 bow 0",
+   "kind": "skill",
+   "targets": [
+    "sk_bow_0",
+    "sk_bow_1",
+    "sk_bow_2",
+    "sk_bow_3"
+   ],
+   "prompt": "square wuxia martial-arts SKILL icon for a mobile RPG, painted energy burst or symbolic motif centered in frame, bold readable at 72px, clean rich shading, no character faces, no hands, no text, no border, no UI frame. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate square icons, evenly spaced with wide clear gaps so they never touch, all the same size. Color mood: shadow sect — dark brown, charcoal and venom green energy. left to right: 1) crescent moon over silent night mist (night movement art), 2) curved dagger slash leaving a red bleeding wound trail (bleeding blade), 3) venom drop splashing on a blade edge, green poison mist (poison art), 4) two shadowy afterimage silhouette outlines splitting apart (shadow clones)"
+  },
+  {
+   "id": "sheet_skill_bow_b",
+   "name": "스킬아이콘 bow 4",
+   "kind": "skill",
+   "targets": [
+    "sk_bow_4",
+    "sk_bow_5",
+    "sk_bow_6",
+    "sk_bow_7"
+   ],
+   "prompt": "square wuxia martial-arts SKILL icon for a mobile RPG, painted energy burst or symbolic motif centered in frame, bold readable at 72px, clean rich shading, no character faces, no hands, no text, no border, no UI frame. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate square icons, evenly spaced with wide clear gaps so they never touch, all the same size. Color mood: shadow sect — dark brown, charcoal and venom green energy. left to right: 1) ten crossing blade slashes forming a star burst (blade frenzy ultimate), 2) coin pouch wrapped in poison vine (poison study income), 3) footprints fading into mist (stealth walking), 4) assassin dagger piercing a paper talisman (assassination mastery)"
+  },
+  {
+   "id": "sheet_skill_mage_a",
+   "name": "스킬아이콘 mage 0",
+   "kind": "skill",
+   "targets": [
+    "sk_mage_0",
+    "sk_mage_1",
+    "sk_mage_2",
+    "sk_mage_3"
+   ],
+   "prompt": "square wuxia martial-arts SKILL icon for a mobile RPG, painted energy burst or symbolic motif centered in frame, bold readable at 72px, clean rich shading, no character faces, no hands, no text, no border, no UI frame. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate square icons, evenly spaced with wide clear gaps so they never touch, all the same size. Color mood: demonic path — black and crimson red energy with dark smoke. left to right: 1) burning heart with dark flame aura (demonic frenzy), 2) self-sacrificing blood droplets exploding outward as dark energy nova (blood burst), 3) horned demonic mask materializing from crimson smoke (demon transformation), 4) giant dark blade smashing the ground with cracks (earth-splitting strike)"
+  },
+  {
+   "id": "sheet_skill_mage_b",
+   "name": "스킬아이콘 mage 4",
+   "kind": "skill",
+   "targets": [
+    "sk_mage_4",
+    "sk_mage_5",
+    "sk_mage_6",
+    "sk_mage_7"
+   ],
+   "prompt": "square wuxia martial-arts SKILL icon for a mobile RPG, painted energy burst or symbolic motif centered in frame, bold readable at 72px, clean rich shading, no character faces, no hands, no text, no border, no UI frame. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate square icons, evenly spaced with wide clear gaps so they never touch, all the same size. Color mood: demonic path — black and crimson red energy with dark smoke. left to right: 1) immortal dark phoenix rising from crimson explosion (demon god body ultimate), 2) black coins swirling in dark energy vortex (demonic income), 3) spiral of dark qi circulating through a circle (demonic circulation), 4) demonic sigil seal glowing crimson (demonic mastery)"
+  },
+  {
+   "id": "sheet_skill_hidden",
+   "name": "스킬아이콘 hidden 0",
+   "kind": "skill",
+   "targets": [
+    "sk_hidden_0",
+    "sk_hidden_1",
+    "sk_hidden_2",
+    "sk_hidden_3"
+   ],
+   "prompt": "square wuxia martial-arts SKILL icon for a mobile RPG, painted energy burst or symbolic motif centered in frame, bold readable at 72px, clean rich shading, no character faces, no hands, no text, no border, no UI frame. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate square icons, evenly spaced with wide clear gaps so they never touch, all the same size. Color mood: transcendent — radiant gold and white celestial energy. left to right: 1) heaven and earth merging, gold and white halves of a circle joining (unity), 2) two different colored energy streams braiding into one strike (fusion strike), 3) serene radiant third-eye state halo (trance state), 4) the universe splitting open with golden light, creation burst (world-opening ultimate)"
+  },
+  {
+   "id": "sheet_artifact_a",
+   "name": "유물 아이콘",
+   "kind": "artifact",
+   "targets": [
+    "a_maple_leaf",
+    "a_hero_crest",
+    "a_gold_coin",
+    "a_lucky_clover"
+   ],
+   "prompt": "wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette legible at 72px, no text, no border, no character, no ground shadow. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate items, evenly spaced with wide clear gaps so they never touch, all the same size. left to right: 1) glowing green elixir herb leaf with dew (spirit medicine leaf), 2) bronze martial alliance seal stamp with cord tassel (alliance sigil), 3) stack of ancient Chinese silver sycee ingots (ancient silver), 4) carved jade pendant disc with red knot cord (lucky jade pendant)"
+  },
+  {
+   "id": "sheet_artifact_b",
+   "name": "유물 아이콘",
+   "kind": "artifact",
+   "targets": [
+    "a_idle_hourglass",
+    "a_battle_sigil",
+    "a_guardian_charm",
+    "a_star_fragment"
+   ],
+   "prompt": "wuxia / Chinese martial arts fantasy game item icon, clean vector-like shading, bold readable silhouette legible at 72px, no text, no border, no character, no ground shadow. The whole background is one flat uniform chroma-key magenta color (#FF00FF). a horizontal row of exactly 4 separate items, evenly spaced with wide clear gaps so they never touch, all the same size. left to right: 1) bronze incense-clock hourglass with drifting sand (idle hourglass), 2) crimson war banner token with tiger emblem (battle sigil), 3) yellow paper talisman with red calligraphy strokes (guardian charm), 4) glowing violet meteorite shard on a silk cushion (star fragment)"
+  },
+  {
+   "id": "Biome01",
+   "name": "배경 Biome01",
+   "kind": "biome",
+   "targets": [
+    "Biome01"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: misty green bamboo forest with a dirt path, dawn light"
+  },
+  {
+   "id": "Biome02",
+   "name": "배경 Biome02",
+   "kind": "biome",
+   "targets": [
+    "Biome02"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: bustling ancient Chinese market street with inn banners and red lanterns, daytime"
+  },
+  {
+   "id": "Biome03",
+   "name": "배경 Biome03",
+   "kind": "biome",
+   "targets": [
+    "Biome03"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: forest bandit stronghold with wooden palisades and watchtowers, late afternoon"
+  },
+  {
+   "id": "Biome04",
+   "name": "배경 Biome04",
+   "kind": "biome",
+   "targets": [
+    "Biome04"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: yellow mountain peaks above a sea of clouds, stone stairway, golden morning"
+  },
+  {
+   "id": "Biome05",
+   "name": "배경 Biome05",
+   "kind": "biome",
+   "targets": [
+    "Biome05"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: western desert frontier pass with a great stone gate and sand dunes, dusk"
+  },
+  {
+   "id": "Biome06",
+   "name": "배경 Biome06",
+   "kind": "biome",
+   "targets": [
+    "Biome06"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: snowy mountain ridge with pine trees and a frozen shrine, cold blue light"
+  },
+  {
+   "id": "Biome07",
+   "name": "배경 Biome07",
+   "kind": "biome",
+   "targets": [
+    "Biome07"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: deep cavern with glowing green crystals and underground lake"
+  },
+  {
+   "id": "Biome08",
+   "name": "배경 Biome08",
+   "kind": "biome",
+   "targets": [
+    "Biome08"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: dark blood-cult altar valley with red banners and torch flames, night"
+  },
+  {
+   "id": "Biome09",
+   "name": "배경 Biome09",
+   "kind": "biome",
+   "targets": [
+    "Biome09"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: demonic sect fortress with black iron walls and crimson lanterns, storm sky"
+  },
+  {
+   "id": "Biome10",
+   "name": "배경 Biome10",
+   "kind": "biome",
+   "targets": [
+    "Biome10"
+   ],
+   "prompt": "wide painted 2D side-scroller game BACKGROUND for a wuxia martial-arts idle RPG, landscape 16:9, soft painterly shading, layered depth (far mountains, mid scenery, near ground line at the bottom quarter), muted low-contrast colors so game characters in front stay readable, no characters, no animals, no text, no UI, no borders. Scene: heavenly demon palace floating amid dark clouds and crimson lightning, epic finale"
+  },
+  {
+   "id": "Boss01_00",
+   "name": "보스 Boss01_00",
+   "kind": "boss",
+   "targets": [
+    "Boss01_00"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: burly bandit chief in brown leather armor with an iron machete and straw hat"
+  },
+  {
+   "id": "Boss02_04",
+   "name": "보스 Boss02_04",
+   "kind": "boss",
+   "targets": [
+    "Boss02_04"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: corrupt market enforcer in dark blue brocade robe wielding a heavy iron staff"
+  },
+  {
+   "id": "Boss03_08",
+   "name": "보스 Boss03_08",
+   "kind": "boss",
+   "targets": [
+    "Boss03_08"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: forest outlaw king with twin axes, green cloak and bamboo hat"
+  },
+  {
+   "id": "Boss04_12",
+   "name": "보스 Boss04_12",
+   "kind": "boss",
+   "targets": [
+    "Boss04_12"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: arrogant orthodox-sect traitor swordsman in white-and-azure robes with a jian sword"
+  },
+  {
+   "id": "Boss05_16",
+   "name": "보스 Boss05_16",
+   "kind": "boss",
+   "targets": [
+    "Boss05_16"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: desert warlord in bronze lamellar armor with a giant curved dao blade"
+  },
+  {
+   "id": "Boss06_20",
+   "name": "보스 Boss06_20",
+   "kind": "boss",
+   "targets": [
+    "Boss06_20"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: frost hermit master in pale fur-lined robes with an ice-blue spear"
+  },
+  {
+   "id": "Boss07_24",
+   "name": "보스 Boss07_24",
+   "kind": "boss",
+   "targets": [
+    "Boss07_24"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: cave venom witch in dark green robes with poison claws and snake motifs"
+  },
+  {
+   "id": "Boss08_00",
+   "name": "보스 Boss08_00",
+   "kind": "boss",
+   "targets": [
+    "Boss08_00"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: blood cult high priest in black-and-crimson robes holding a bone staff"
+  },
+  {
+   "id": "Boss09_31",
+   "name": "보스 Boss09_31",
+   "kind": "boss",
+   "targets": [
+    "Boss09_31"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: demonic sect general in black iron armor with crimson trim and a massive greatsword"
+  },
+  {
+   "id": "Boss10_35",
+   "name": "보스 Boss10_35",
+   "kind": "boss",
+   "targets": [
+    "Boss10_35"
+   ],
+   "prompt": "single wuxia martial-arts BOSS character for a 2D mobile game, full body standing pose facing LEFT, chunky simplified cartoon style with a thick pure black outline and flat cel shading (two or three tones per material, no gradients, no painterly rendering), bold readable silhouette, feet on an invisible ground line, no weapon effects text. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. Character: the heavenly demon lord — towering figure in black robes with crimson demonic aura patterns woven into the cloth, horned mask, giant dark blade"
+  },
+  {
+   "id": "face_t1",
+   "name": "플레이어 face_t1",
+   "kind": "armor",
+   "targets": [
+    "face_t1"
+   ],
+   "prompt": "chunky simplified 2D cartoon game sprite for a chibi character rig, drawn with a VERY thick uniform pure black outline, flat cel shading, no gradients, bold clean shapes. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. the FACE LINE-ART overlay for a CHIBI game character head: the head outline must be an ALMOST PERFECT CIRCLE, width equal to height, like a ball — NOT a realistic human profile. Inside the circle near the left edge: one short sharp confident black eyebrow stroke and a tiny calm mouth line. A very small nose bump on the left edge of the circle is allowed. NO eyes, NO hair, NO mustache, NO beard, NO neck, NO shading fill — just the circular outline and the few face strokes, transparent inside"
+  },
+  {
+   "id": "hairtop_t1",
+   "name": "플레이어 hairtop_t1",
+   "kind": "armor",
+   "targets": [
+    "hairtop_t1"
+   ],
+   "prompt": "chunky simplified 2D cartoon game sprite for a chibi character rig, drawn with a VERY thick uniform pure black outline, flat cel shading with two or three solid tones, no gradients, no painterly rendering, bold clean readable shapes. side view facing LEFT. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. the TOP HAIR of a handsome young wuxia swordsman: sleek black hair swept back into a high topknot bun with a small white jade hairpin, a few sharp bangs over the forehead, worn ON TOP of a round chibi head (curved underside to sit on the scalp), no face, no head, hair only"
+  },
+  {
+   "id": "hairback_t1",
+   "name": "플레이어 hairback_t1",
+   "kind": "armor",
+   "targets": [
+    "hairback_t1"
+   ],
+   "prompt": "chunky simplified 2D cartoon game sprite for a chibi character rig, drawn with a VERY thick uniform pure black outline, flat cel shading with two or three solid tones, no gradients, no painterly rendering, bold clean readable shapes. side view facing LEFT. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no ground shadow. the BACK HAIR of a handsome young wuxia swordsman: a short black ponytail tail falling from a topknot with a white ribbon tie, seen from the side, hair only, no head, no face"
+  },
+  {
+   "id": "sheet_face_mouth",
+   "name": "표정 입 4종 (샘플)",
+   "kind": "icon",
+   "targets": [
+    "mouth_e1",
+    "mouth_e2",
+    "mouth_e3",
+    "mouth_e4"
+   ],
+   "prompt": "a horizontal row of exactly 4 separate simple cartoon MOUTH shapes only, no face, no eyes, no nose, no head, just isolated mouth line drawings, evenly spaced with wide clear gaps so they never touch, all the same size, left to right: 1) a small gentle closed smile curve, 2) a wide open laughing mouth shaped like a rounded rectangle with a small tongue, 3) a small frowning upside-down curve looking grumpy, 4) a small round O shaped surprised open mouth. ART STYLE: chunky simplified 2D cartoon game sprite, drawn with VERY thick uniform pure black ink strokes (#000000) only, interior of open mouths solid black or with a tiny flat dark red (#7A2A2A) tongue, flat cel style, absolutely no gradients, no shading, no texture, no glow. Bold chunky readable shapes legible at 40 pixels wide, like a low resolution mobile RPG face sprite. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no character, no ground shadow"
+  },
+  {
+   "id": "sheet_terrain_props",
+   "name": "지형 소품 5종",
+   "targets": [
+    "prop_rock",
+    "prop_grass",
+    "prop_lantern",
+    "prop_flag",
+    "prop_bamboo"
+   ],
+   "prompt": "a horizontal row of exactly 5 separate small decoration props for a 2D wuxia game battlefield, evenly spaced with wide clear gaps so they never touch, similar sizes, left to right: 1) a small mossy boulder, 2) a tuft of tall wild grass, 3) a red chinese stone lantern with a small warm flame, 4) a tattered vertical martial banner flag on a wooden pole with a plain dark red cloth and NO letters or symbols on it, 5) a short cut bamboo cluster of three stalks. ART STYLE: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around the whole silhouette, flat cel shading with two or three solid tones per material, hard edges, no gradients, no texture noise, no glow. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no characters, no ground shadow"
+  },
+  {
+   "id": "terrain_walkway",
+   "name": "지형-잔도 (공중 플랫폼)",
+   "prompt": "one single very wide and THIN horizontal wooden plank walkway for a 2D side-scrolling wuxia game, like a cliffside plank bridge: a long row of flat wooden planks bound with dark rope at regular intervals, perfectly flat top, thin profile like a beam, no supports below, no posts, just the horizontal beam. seen straight from the side. ART STYLE: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around the whole silhouette, flat cel shading with two or three solid tones per material, hard edges, no gradients, no texture noise, no glow. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no characters, no ground shadow"
+  },
+  {
+   "id": "terrain_ground_forest",
+   "name": "지형-숲 바닥 띠",
+   "prompt": "one single very wide horizontal strip of forest ground terrain for a 2D side-scrolling wuxia game, flat walkable grassy top edge with small moss tufts, packed brown earth and a few embedded grey stones below, wide aspect like a long ground band. seen straight from the side. ART STYLE: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around the whole silhouette, flat cel shading with two or three solid tones per material, hard edges, no gradients, no texture noise, no glow. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no characters, no ground shadow"
+  },
+  {
+   "id": "terrain_ground_cave",
+   "name": "지형-암굴 바닥 띠",
+   "prompt": "one single very wide horizontal strip of dark cave ground terrain for a 2D side-scrolling wuxia game, flat walkable dark slate stone top edge with faint teal crystal specks, cracked dark rock below, wide aspect like a long ground band. seen straight from the side. ART STYLE: chunky simplified 2D cartoon game sprite, VERY thick uniform pure black outline around the whole silhouette, flat cel shading with two or three solid tones per material, hard edges, no gradients, no texture noise, no glow. The whole background is one flat uniform chroma-key magenta color (#FF00FF), no text, no border, no characters, no ground shadow"
+  },
+  {
+   "id": "TownBg",
+   "name": "마을 전경 (강호 거점)",
+   "kind": "biome",
+   "prompt": "a wide establishing view of a peaceful ancient Chinese wuxia town at golden late afternoon, 2D mobile game background art: a stone-paved main street lined with traditional wooden buildings with dark tiled curved roofs, red paper lanterns on strings, a tavern with hanging cloth banner WITHOUT any letters, a blacksmith forge with faint smoke, distant green mountains and soft clouds behind the rooftops. warm inviting mood. painterly stylized cartoon look with clean shapes, soft cel shading, no characters, no people, no animals, no text, no letters, no UI, full-bleed scene filling the entire canvas edge to edge"
+  }
+ ]
+}

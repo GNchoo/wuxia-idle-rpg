@@ -1,0 +1,1 @@
+{"type":"execute_code","params":{"action":"execute","code":"var hud = UnityEngine.Object.FindObjectOfType<IdleMvp.UI.Maple.MapleMainHud>(); if(hud==null) return \"hud_not_found\"; hud.DebugOpen(\"faction\"); return \"faction_opened\";"}}

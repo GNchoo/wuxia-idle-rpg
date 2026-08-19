@@ -1,0 +1,1 @@
+{"type":"execute_code","params":{"action":"execute","code":"var hero = UnityEngine.GameObject.Find(\"Hero\"); if(hero==null) return \"Hero GO not found (Play mode?)\"; var s = hero.transform.localScale; return $\"heroScale=({s.x:F3},{s.y:F3},{s.z:F3}) pos=({hero.transform.position.x:F2},{hero.transform.position.y:F2},{hero.transform.position.z:F2})\";"}}

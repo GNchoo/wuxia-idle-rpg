@@ -1,0 +1,9 @@
+{
+  "gachaRoll": "ItemsPurchaseHeroManagerScript Random.Range(0,50)",
+  "rates": { "legendary": 0.02, "epic": 0.08, "rare": 0.20, "common": 0.70 },
+  "wallet": "WalletManagerScript Gold/Gem",
+  "inventory": "InventoryManagerScript 6 slots",
+  "companion": "SubHeroesManagerScript",
+  "skills": "GameplaySkillsManagerScript 4 skills",
+  "shop": "DiamondPurchase / DailyBundle / Boost"
+}

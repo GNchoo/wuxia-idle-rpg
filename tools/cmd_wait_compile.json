@@ -1,0 +1,1 @@
+{"type":"execute_code","params":{"action":"execute","code":"int i=0; while(EditorApplication.isCompiling && i<30){System.Threading.Thread.Sleep(1000);i++;} return EditorApplication.isCompiling ? \"still_compiling\" : \"done\";"}}

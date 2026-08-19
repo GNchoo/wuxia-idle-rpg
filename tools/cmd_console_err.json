@@ -1,0 +1,1 @@
+{"type":"execute_code","params":{"action":"execute","code":"int total = UnityEngine.Debug.unityLogger.logHandler != null ? 1 : 0; var flags = (int)UnityEngine.LogType.Error; return \"compiled_ok\";"}}

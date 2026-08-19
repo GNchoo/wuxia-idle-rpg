@@ -1,0 +1,1 @@
+{"type":"execute_code","params":{"action":"execute","code":"EditorApplication.isPlaying = true; return \"entering_play\";"}}

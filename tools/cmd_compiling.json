@@ -1,0 +1,1 @@
+{"type":"execute_code","params":{"action":"execute","code":"return EditorApplication.isCompiling.ToString() + \"|\" + UnityEditorInternal.InternalEditorUtility.GetFullUnityVersion();"}}

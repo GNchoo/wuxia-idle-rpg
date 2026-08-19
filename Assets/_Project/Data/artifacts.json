@@ -1,0 +1,12 @@
+{
+  "artifacts": [
+    { "id": "a_maple_leaf", "name": "영약 잎사귀", "setId": "origin", "slotCp": 25, "goldPct": 2, "idlePct": 1, "atkPct": 0 },
+    { "id": "a_hero_crest", "name": "무림맹 인장", "setId": "origin", "slotCp": 40, "goldPct": 0, "idlePct": 0, "atkPct": 3 },
+    { "id": "a_gold_coin", "name": "고대 은자", "setId": "fortune", "slotCp": 20, "goldPct": 5, "idlePct": 0, "atkPct": 0 },
+    { "id": "a_lucky_clover", "name": "행운의 옥패", "setId": "fortune", "slotCp": 30, "goldPct": 3, "idlePct": 2, "atkPct": 0 },
+    { "id": "a_idle_hourglass", "name": "방치의 모래시계", "setId": "idle", "slotCp": 35, "goldPct": 0, "idlePct": 6, "atkPct": 0 },
+    { "id": "a_battle_sigil", "name": "전투 인장", "setId": "battle", "slotCp": 45, "goldPct": 0, "idlePct": 0, "atkPct": 4 },
+    { "id": "a_guardian_charm", "name": "수호의 부적", "setId": "battle", "slotCp": 38, "goldPct": 0, "idlePct": 1, "atkPct": 1 },
+    { "id": "a_star_fragment", "name": "별의 파편", "setId": "idle", "slotCp": 50, "goldPct": 1, "idlePct": 4, "atkPct": 1 }
+  ]
+}

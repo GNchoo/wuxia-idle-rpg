@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7c9e2a1f4b8d4560a3e5f90123456789
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Malgun Gothic Semilight
+  fontNames:
+  - Malgun Gothic Semilight
+  - 맑은 고딕 Semilight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

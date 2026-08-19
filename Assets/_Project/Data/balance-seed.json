@@ -1,0 +1,43 @@
+{
+  "offlineCapHours": 8,
+  "fastRewardPerDay": 3,
+  "fastRewardHoursEquivalent": 1,
+  "stageEnemyGrowth": 1.07,
+  "bossMultiplier": 1.55,
+  "clearCpRatioMin": 0.85,
+  "clearCpRatioMax": 1.15,
+  "statPointsPerLevel": 5,
+  "pointsPerGrade": 25,
+  "specialStatPerGrade": 1,
+  "dungeons": [
+    {
+      "id": "gold",
+      "ticketsPerDay": 2,
+      "adTickets": 1
+    },
+    {
+      "id": "enhance",
+      "ticketsPerDay": 2,
+      "adTickets": 1
+    },
+    {
+      "id": "equipment",
+      "ticketsPerDay": 2,
+      "adTickets": 1
+    }
+  ],
+  "equipmentSlots": [
+    "weapon",
+    "helm",
+    "armor",
+    "boots"
+  ],
+  "rarities": [
+    "N",
+    "R",
+    "SR",
+    "SSR"
+  ],
+  "mvpChapters": 10,
+  "stagesPerChapter": 10
+}

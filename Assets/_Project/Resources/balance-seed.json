@@ -1,0 +1,54 @@
+{
+ "offlineCapHours": 8,
+ "fastRewardPerDay": 3,
+ "fastRewardHoursEquivalent": 1,
+ "stageEnemyGrowth": 1.07,
+ "bossMultiplier": 1.55,
+ "clearCpRatioMin": 0.85,
+ "clearCpRatioMax": 1.15,
+ "statPointsPerLevel": 5,
+ "pointsPerGrade": 25,
+ "specialStatPerGrade": 1,
+ "dungeons": [
+  {
+   "id": "gold",
+   "keysPerDay": 3,
+   "keyCap": 10,
+   "adKeys": 1
+  },
+  {
+   "id": "enhance",
+   "keysPerDay": 3,
+   "keyCap": 10,
+   "adKeys": 1
+  },
+  {
+   "id": "equipment",
+   "keysPerDay": 3,
+   "keyCap": 10,
+   "adKeys": 1
+  },
+  {
+   "id": "training",
+   "keysPerDay": 3,
+   "keyCap": 10,
+   "adKeys": 1
+  }
+ ],
+ "equipmentSlots": [
+  "weapon",
+  "helm",
+  "armor",
+  "accessory",
+  "pants",
+  "shoes"
+ ],
+ "rarities": [
+  "일반",
+  "희귀",
+  "영웅",
+  "전설"
+ ],
+ "mvpChapters": 20,
+ "stagesPerChapter": 10
+}
